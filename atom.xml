@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-26T15:45:17.725Z</updated>
+  <updated>2020-02-26T16:44:44.918Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/26/hello-world/"/>
-    <id>http://yoursite.com/2020/02/26/hello-world/</id>
-    <published>2020-02-26T15:08:53.491Z</published>
-    <updated>2020-02-26T15:45:17.725Z</updated>
+    <title>文章测试</title>
+    <link href="http://yoursite.com/2018/09/07/hello-world/"/>
+    <id>http://yoursite.com/2018/09/07/hello-world/</id>
+    <published>2018-09-07T01:25:00.000Z</published>
+    <updated>2020-02-26T16:44:44.918Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,15 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;$A^{xijs}$&lt;/p&gt;
+&lt;pre class=&quot; language-cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;&lt;span class=&quot;token macro property&quot;&gt;#&lt;span class=&quot;token directive
         
       
     
     </summary>
     
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
   </entry>
