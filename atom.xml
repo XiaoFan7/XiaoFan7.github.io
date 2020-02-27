@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T07:57:06.416Z</updated>
+  <updated>2020-02-27T08:10:25.313Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>POJ-3984 迷宫问题</title>
+    <link href="http://yoursite.com/2020/02/27/POJ3984/"/>
+    <id>http://yoursite.com/2020/02/27/POJ3984/</id>
+    <published>2020-02-27T08:06:44.000Z</published>
+    <updated>2020-02-27T08:10:25.313Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://poj.org/problem?id=3984&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;POJ - 3984&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="宽度优先搜索" scheme="http://yoursite.com/tags/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POJ-1321 棋盘问题</title>
+    <link href="http://yoursite.com/2020/02/27/POJ1321/"/>
+    <id>http://yoursite.com/2020/02/27/POJ1321/</id>
+    <published>2020-02-27T08:02:41.000Z</published>
+    <updated>2020-02-27T08:06:19.682Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://poj.org/problem?id=1321&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;POJ - 1321&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="深度优先搜索" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>Openj-2748 全排列</title>
