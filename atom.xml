@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T06:13:19.544Z</updated>
+  <updated>2020-02-27T07:35:31.326Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>CodeForces-1247B2 TV Subscriptions (Hard Version)</title>
+    <title>CodeForces-1249E By Elevator or Stairs?（线性DP）</title>
+    <link href="http://yoursite.com/2019/10/31/CF1249E/"/>
+    <id>http://yoursite.com/2019/10/31/CF1249E/</id>
+    <published>2019-10-31T11:43:14.000Z</published>
+    <updated>2020-02-27T07:35:31.326Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1249/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线性DP" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces-1195C Basketball Exercise（线性DP）</title>
+    <link href="http://yoursite.com/2019/10/30/CF1195C/"/>
+    <id>http://yoursite.com/2019/10/30/CF1195C/</id>
+    <published>2019-10-30T11:43:14.000Z</published>
+    <updated>2020-02-27T07:33:41.963Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1195/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 1195C&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a href=&quot;#一-题目描述&quot; class=&quot;headerlink&quot; title=&quot;一. 题目描述&quot;&gt;&lt;/a&gt;一. 题目描述&lt;/h2&gt;&lt;p&gt;Finally, a basketball court has been opened in SIS, so Demid has decided to hold a basketball exercise session. 2⋅n students have come to Demid’s exercise session, and he lined up them into two rows of the same size （there are exactly n people in each row）. Students are numbered from 1 to n in each row in order from left to right.&lt;/p&gt;
+&lt;p&gt;Now Demid wants to choose a team to play basketball. He will choose players from left to right, and the index of each chosen player （excluding the first one taken） will be strictly greater than the index of the previously chosen player. To avoid giving preference to one of the rows, Demid chooses students in such a way that no consecutive chosen students belong to the same row. The first student can be chosen among all 2n students （there are no additional constraints）, and a team can consist of any number of students.&lt;/p&gt;
+&lt;p&gt;Demid thinks, that in order to compose a perfect team, he should choose students in such a way, that the total height of all chosen students is maximum possible. Help Demid to find the maximum possible total height of players in a team he can choose.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线性DP" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces-1247B2 TV Subscriptions （Hard Version）</title>
     <link href="http://yoursite.com/2019/10/30/CF1247B2/"/>
     <id>http://yoursite.com/2019/10/30/CF1247B2/</id>
     <published>2019-10-30T11:43:14.000Z</published>
-    <updated>2020-02-27T06:13:19.544Z</updated>
+    <updated>2020-02-27T07:33:35.797Z</updated>
     
     <summary type="html">
     
