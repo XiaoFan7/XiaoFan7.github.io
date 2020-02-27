@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T07:35:31.326Z</updated>
+  <updated>2020-02-27T07:57:06.416Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,90 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Openj-2748 全排列</title>
+    <link href="http://yoursite.com/2020/02/27/OPJ2748/"/>
+    <id>http://yoursite.com/2020/02/27/OPJ2748/</id>
+    <published>2020-02-27T07:55:28.000Z</published>
+    <updated>2020-02-27T07:57:06.416Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://vjudge.net/problem/OpenJ_Bailian-2748&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Openj - 2748&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="深度优先搜索" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HDU-1241 Oil Deposits</title>
+    <link href="http://yoursite.com/2020/02/27/HDU1241/"/>
+    <id>http://yoursite.com/2020/02/27/HDU1241/</id>
+    <published>2020-02-27T07:50:59.000Z</published>
+    <updated>2020-02-27T07:53:07.595Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=1241&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 1241&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="深度优先搜索" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces-455A Boredom（线性DP）</title>
+    <link href="http://yoursite.com/2020/02/27/CF455A/"/>
+    <id>http://yoursite.com/2020/02/27/CF455A/</id>
+    <published>2020-02-27T07:37:45.000Z</published>
+    <updated>2020-02-27T07:49:52.484Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/455/problem/A&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 455A&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线性DP" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7DP/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1249E By Elevator or Stairs?（线性DP）</title>
