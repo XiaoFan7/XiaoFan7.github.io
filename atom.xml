@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T08:10:25.313Z</updated>
+  <updated>2020-02-27T09:19:41.115Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,314 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-148D Bag of mice（概率DP）</title>
+    <link href="http://yoursite.com/2020/02/27/CF148D/"/>
+    <id>http://yoursite.com/2020/02/27/CF148D/</id>
+    <published>2020-02-27T09:15:39.000Z</published>
+    <updated>2020-02-27T09:19:41.115Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/148/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 148D&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="概率DP" scheme="http://yoursite.com/tags/%E6%A6%82%E7%8E%87DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces-1279D Santa&#39;s Bot（逆元）</title>
+    <link href="http://yoursite.com/2020/02/27/CF1279D/"/>
+    <id>http://yoursite.com/2020/02/27/CF1279D/</id>
+    <published>2020-02-27T09:07:18.000Z</published>
+    <updated>2020-02-27T09:13:28.082Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1279/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POJ-1679 The Unique MST（次小生成树）</title>
+    <link href="http://yoursite.com/2020/02/27/POJ1679/"/>
+    <id>http://yoursite.com/2020/02/27/POJ1679/</id>
+    <published>2020-02-27T09:01:12.000Z</published>
+    <updated>2020-02-27T09:02:14.112Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://poj.org/problem?id=1679&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;POJ - 1679&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最小生成树" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POJ-2421 Constructing Roads</title>
+    <link href="http://yoursite.com/2020/02/27/POJ2421/"/>
+    <id>http://yoursite.com/2020/02/27/POJ2421/</id>
+    <published>2020-02-27T08:58:29.000Z</published>
+    <updated>2020-02-27T09:00:35.541Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://poj.org/problem?id=2421&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;POJ - 2421&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最小生成树" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HDU-1875 畅通工程再续</title>
+    <link href="http://yoursite.com/2020/02/27/HDU1875/"/>
+    <id>http://yoursite.com/2020/02/27/HDU1875/</id>
+    <published>2020-02-27T08:56:21.000Z</published>
+    <updated>2020-02-27T08:58:11.988Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=1875&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 1875&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最小生成树" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HDU-1233 还是畅通工程</title>
+    <link href="http://yoursite.com/2020/02/27/HDU1233/"/>
+    <id>http://yoursite.com/2020/02/27/HDU1233/</id>
+    <published>2020-02-27T08:53:16.000Z</published>
+    <updated>2020-02-27T08:55:31.421Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=1233&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 1233&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最小生成树" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces-1238B Kill&#39;Em All</title>
+    <link href="http://yoursite.com/2020/02/27/CF1238B/"/>
+    <id>http://yoursite.com/2020/02/27/CF1238B/</id>
+    <published>2020-02-27T08:50:09.000Z</published>
+    <updated>2020-02-27T08:52:05.159Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1238/B&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces-1216D Swords</title>
+    <link href="http://yoursite.com/2020/02/27/CF1216D/"/>
+    <id>http://yoursite.com/2020/02/27/CF1216D/</id>
+    <published>2020-02-27T08:46:04.000Z</published>
+    <updated>2020-02-27T08:48:39.087Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1216/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HDU-1728 逃离迷宫</title>
+    <link href="http://yoursite.com/2020/02/27/HDU1728/"/>
+    <id>http://yoursite.com/2020/02/27/HDU1728/</id>
+    <published>2020-02-27T08:42:44.000Z</published>
+    <updated>2020-02-27T08:45:25.320Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=1728&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HUD - 1728&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="深度优先搜索" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HDU-2553 N皇后</title>
+    <link href="http://yoursite.com/2020/02/27/HDU2553/"/>
+    <id>http://yoursite.com/2020/02/27/HDU2553/</id>
+    <published>2020-02-27T08:39:52.000Z</published>
+    <updated>2020-02-27T08:41:58.604Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=2553&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 2553&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="深度优先搜索" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces-510B Fox And Two Dots</title>
+    <link href="http://yoursite.com/2020/02/27/CF510B/"/>
+    <id>http://yoursite.com/2020/02/27/CF510B/</id>
+    <published>2020-02-27T08:33:53.000Z</published>
+    <updated>2020-02-27T08:37:51.903Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/510/B&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="深度优先搜索" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>POJ-3984 迷宫问题</title>
@@ -105,7 +413,7 @@
     <link href="http://yoursite.com/2020/02/27/HDU1241/"/>
     <id>http://yoursite.com/2020/02/27/HDU1241/</id>
     <published>2020-02-27T07:50:59.000Z</published>
-    <updated>2020-02-27T08:16:02.661Z</updated>
+    <updated>2020-02-27T08:28:28.620Z</updated>
     
     <summary type="html">
     
