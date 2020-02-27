@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="文章测试, 小凡">
+    <meta name="keywords" content="CodeForces-1247B2 TV Subscriptions (Hard Version), 小凡">
     <meta name="description" content="这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -13,7 +13,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>文章测试 | 小凡</title>
+    <title>CodeForces-1247B2 TV Subscriptions (Hard Version) | 小凡</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -319,7 +319,7 @@ if (windowWidth > 768) {
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">文章测试</h1>
+                    <h1 class="description center-align post-title">CodeForces-1247B2 TV Subscriptions (Hard Version)</h1>
                 </div>
             </div>
         </div>
@@ -362,7 +362,7 @@ if (windowWidth > 768) {
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2018-09-07
+                    2019-10-30
                 </div>
                 
 
@@ -379,59 +379,67 @@ if (windowWidth > 768) {
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>$A^{xijs}$</p>
-<pre class=" language-cpp"><code class="language-cpp"><span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;iostream></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;string></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;cstring></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;cstdio></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;map></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;set></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;queue></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;stack></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;functional></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;algorithm></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;cstdlib></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;cmath></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;vector></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;iomanip></span></span>
-<span class="token macro property">#<span class="token directive keyword">if</span> __cplusplus >= 201103L</span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;unordered_map></span></span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;unordered_set></span></span>
-<span class="token macro property">#<span class="token directive keyword">endif</span></span>
-<span class="token macro property">#<span class="token directive keyword">define</span> fi first</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> se second</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> ll long long</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> pb push_back</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> mp make_pair</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> fun function</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> vi vector&lt;int></span>
-<span class="token macro property">#<span class="token directive keyword">define</span> lowbit(x) x&amp;(-x)</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> pii pair&lt;int,int></span>
-<span class="token macro property">#<span class="token directive keyword">define</span> all(x) x.begin(),x.end()</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> mem(a,b) memset(a,b,sizeof(a))</span>
-<span class="token macro property">#<span class="token directive keyword">define</span> IOS ios_base::sync_with_stdio(0); cin.tie(0);cout.tie(0);</span>
+                <p><strong>传送门：</strong><a href="https://codeforces.com/contest/1247/problem/B2" target="_blank" rel="noopener">CodeForces - 1247B2</a></p>
+<h1 id="Description"><a href="#Description" class="headerlink" title="Description"></a>Description</h1><p>The only difference between easy and hard versions is constraints.</p>
+<p>The BerTV channel every day broadcasts one episode of one of the k TV shows. You know the schedule for the next n days: a sequence of integers a1,a2,…,an (1≤ai≤k), where ai is the show, the episode of which will be shown in i-th day.</p>
+<p>The subscription to the show is bought for the entire show (i.e. for all its episodes), for each show the subscription is bought separately.</p>
+<p>How many minimum subscriptions do you need to buy in order to have the opportunity to watch episodes of purchased shows d (1≤d≤n) days in a row? In other words, you want to buy the minimum number of TV shows so that there is some segment of d consecutive days in which all episodes belong to the purchased shows.</p>
+<a id="more"></a>
+
+<h1 id="Input"><a href="#Input" class="headerlink" title="Input"></a>Input</h1><p>The first line contains an integer t $(1≤t≤10000)$ — the number of test cases in the input. Then t test case descriptions follow.</p>
+<p>The first line of each test case contains three integers n,k and d $(1≤n≤2⋅10^5$, $1≤k≤10^6$, $1≤d≤n)$. The second line contains n integers $a_1$,$a_2$,…,$a_n$ $(1≤a_i≤k)$, where ai is the show that is broadcasted on the i-th day.</p>
+<p>It is guaranteed that the sum of the values ​​of n for all test cases in the input does not exceed $2⋅10^5$.</p>
+<h1 id="Output"><a href="#Output" class="headerlink" title="Output"></a>Output</h1><p>Print t integers — the answers to the test cases in the input in the order they follow. The answer to a test case is the minimum number of TV shows for which you need to purchase a subscription so that you can watch episodes of the purchased TV shows on BerTV for d consecutive days. Please note that it is permissible that you will be able to watch more than d days in a row.</p>
+<h1 id="题意分析"><a href="#题意分析" class="headerlink" title="题意分析"></a>题意分析</h1><p>求长度为D的区间内的最小元素种类数</p>
+<h1 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h1><h2 id="input"><a href="#input" class="headerlink" title="input"></a>input</h2><pre><code>4
+5 2 2
+1 2 1 2 1
+9 3 3
+3 3 3 2 2 2 1 1 1
+4 10 4
+10 8 6 4
+16 9 8
+3 1 4 1 5 9 2 6 5 3 5 8 9 7 9 3
+</code></pre><h2 id="output"><a href="#output" class="headerlink" title="output"></a>output</h2><pre><code>2
+1
+4
+5
+</code></pre><h1 id="辣鸡AC代码"><a href="#辣鸡AC代码" class="headerlink" title="辣鸡AC代码"></a>辣鸡AC代码</h1><pre class=" language-cpp"><code class="language-cpp"><span class="token macro property">#<span class="token directive keyword">include</span><span class="token string">&lt;bits/stdc++.h></span></span>
 
 <span class="token keyword">using</span> <span class="token keyword">namespace</span> std<span class="token punctuation">;</span>
 
-<span class="token keyword">const</span> <span class="token keyword">int</span> INF <span class="token operator">=</span> <span class="token number">0x3f3f3f3f</span><span class="token punctuation">;</span>
-<span class="token keyword">const</span> <span class="token keyword">int</span> N<span class="token operator">=</span><span class="token number">2e5</span><span class="token punctuation">;</span>
-<span class="token keyword">const</span> <span class="token keyword">int</span> M<span class="token operator">=</span><span class="token number">1e8</span><span class="token punctuation">;</span>
+<span class="token keyword">typedef</span> <span class="token keyword">long</span> <span class="token keyword">long</span> ll<span class="token punctuation">;</span>
+
+
+<span class="token keyword">const</span> <span class="token keyword">int</span> maxn<span class="token operator">=</span><span class="token number">1e6</span><span class="token operator">+</span><span class="token number">10</span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> ll mod<span class="token operator">=</span><span class="token number">1e9</span><span class="token operator">+</span><span class="token number">7</span><span class="token punctuation">;</span>
+
+mii p<span class="token punctuation">;</span>
+<span class="token keyword">int</span> a<span class="token punctuation">[</span>maxn<span class="token punctuation">]</span><span class="token punctuation">;</span>
+
 <span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    IOS<span class="token punctuation">;</span>
-<span class="token macro property">#<span class="token directive keyword">ifdef</span> xiaofan</span>
-    <span class="token function">freopen</span><span class="token punctuation">(</span><span class="token string">"4.in"</span><span class="token punctuation">,</span><span class="token string">"w"</span><span class="token punctuation">,</span><span class="token constant">stdout</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token macro property">#<span class="token directive keyword">endif</span></span>
-    cout<span class="token operator">&lt;&lt;</span><span class="token number">1</span><span class="token operator">&lt;&lt;</span>endl<span class="token punctuation">;</span>
-    <span class="token keyword">int</span> c<span class="token operator">=</span><span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">%</span><span class="token number">10000</span><span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">;</span>
-    <span class="token keyword">int</span> b<span class="token operator">=</span><span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">%</span>c<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">;</span>
-    <span class="token keyword">int</span> a<span class="token operator">=</span><span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">%</span>b<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">;</span>
-    cout<span class="token operator">&lt;&lt;</span>a<span class="token operator">&lt;&lt;</span><span class="token string">" "</span><span class="token operator">&lt;&lt;</span>b<span class="token operator">&lt;&lt;</span><span class="token string">" "</span><span class="token operator">&lt;&lt;</span>c<span class="token operator">&lt;&lt;</span>endl<span class="token punctuation">;</span>
 
-
-    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
-<span class="token punctuation">}</span>
-
-</code></pre>
+    <span class="token keyword">int</span> t<span class="token punctuation">,</span>i<span class="token punctuation">;</span>
+    cin<span class="token operator">>></span>t<span class="token punctuation">;</span>
+    <span class="token keyword">while</span><span class="token punctuation">(</span>t<span class="token operator">--</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        p<span class="token punctuation">.</span><span class="token function">clear</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token keyword">int</span> n<span class="token punctuation">,</span>k<span class="token punctuation">,</span>d<span class="token punctuation">,</span>f<span class="token punctuation">,</span>ma<span class="token operator">=</span><span class="token number">1000000</span><span class="token punctuation">;</span>
+        cin<span class="token operator">>></span>n<span class="token operator">>></span>k<span class="token operator">>></span>d<span class="token punctuation">;</span>
+        <span class="token keyword">int</span> cnt<span class="token operator">=</span>d<span class="token punctuation">;</span>
+        <span class="token keyword">int</span> sum<span class="token operator">=</span>n<span class="token operator">-</span>d<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">;</span>
+        <span class="token keyword">for</span><span class="token punctuation">(</span>i<span class="token operator">=</span><span class="token number">1</span><span class="token punctuation">;</span> i<span class="token operator">&lt;=</span>n<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+            cin<span class="token operator">>></span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span>
+            p<span class="token punctuation">[</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token operator">++</span><span class="token punctuation">;</span>
+            <span class="token keyword">if</span><span class="token punctuation">(</span>i<span class="token operator">>=</span>d<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+                <span class="token keyword">int</span> x<span class="token operator">=</span>p<span class="token punctuation">.</span><span class="token function">size</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+                ma<span class="token operator">=</span><span class="token function">min</span><span class="token punctuation">(</span>ma<span class="token punctuation">,</span>x<span class="token punctuation">)</span><span class="token punctuation">;</span>
+                <span class="token keyword">if</span><span class="token punctuation">(</span>p<span class="token punctuation">[</span>a<span class="token punctuation">[</span>i<span class="token operator">-</span>d<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token operator">></span><span class="token number">1</span><span class="token punctuation">)</span>p<span class="token punctuation">[</span>a<span class="token punctuation">[</span>i<span class="token operator">-</span>d<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token operator">--</span><span class="token punctuation">;</span>
+                <span class="token keyword">else</span> p<span class="token punctuation">.</span><span class="token function">erase</span><span class="token punctuation">(</span>p<span class="token punctuation">.</span><span class="token function">find</span><span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token operator">-</span>d<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+        cout<span class="token operator">&lt;&lt;</span>ma<span class="token operator">&lt;&lt;</span>endl<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span></code></pre>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -475,7 +483,7 @@ if (windowWidth > 768) {
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://yoursite.com/2018/09/07/hello-world/">http://yoursite.com/2018/09/07/hello-world/</a>
+                    <a href="http://yoursite.com/2019/10/30/hello-world/">http://yoursite.com/2019/10/30/hello-world/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -681,12 +689,12 @@ if (windowWidth > 768) {
                 <i class="far fa-dot-circle"></i>&nbsp;本篇
             </div>
             <div class="card">
-                <a href="/2018/09/07/hello-world/">
+                <a href="/2019/10/30/hello-world/">
                     <div class="card-image">
                         
-                        <img src="https://s2.ax1x.com/2020/02/27/3a5VwF.jpg" class="responsive-img" alt="文章测试">
+                        <img src="https://s2.ax1x.com/2020/02/27/3a5VwF.jpg" class="responsive-img" alt="CodeForces-1247B2 TV Subscriptions (Hard Version)">
                         
-                        <span class="card-title">文章测试</span>
+                        <span class="card-title">CodeForces-1247B2 TV Subscriptions (Hard Version)</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -697,7 +705,7 @@ if (windowWidth > 768) {
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2018-09-07
+                                <i class="far fa-clock fa-fw icon-date"></i>2019-10-30
                             </span>
                         <span class="publish-author">
                             
@@ -722,12 +730,12 @@ if (windowWidth > 768) {
                 本篇&nbsp;<i class="far fa-dot-circle"></i>
             </div>
             <div class="card">
-                <a href="/2018/09/07/hello-world/">
+                <a href="/2019/10/30/hello-world/">
                     <div class="card-image">
                         
-                        <img src="https://s2.ax1x.com/2020/02/27/3a5VwF.jpg" class="responsive-img" alt="文章测试">
+                        <img src="https://s2.ax1x.com/2020/02/27/3a5VwF.jpg" class="responsive-img" alt="CodeForces-1247B2 TV Subscriptions (Hard Version)">
                         
-                        <span class="card-title">文章测试</span>
+                        <span class="card-title">CodeForces-1247B2 TV Subscriptions (Hard Version)</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -738,7 +746,7 @@ if (windowWidth > 768) {
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2018-09-07
+                                <i class="far fa-clock fa-fw icon-date"></i>2019-10-30
                             </span>
                         <span class="publish-author">
                             
