@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T09:19:41.115Z</updated>
+  <updated>2020-02-27T09:32:25.837Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,89 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NBUT - 1580 调皮的小明（完全背包）</title>
+    <link href="http://yoursite.com/2020/02/27/NBUT1580/"/>
+    <id>http://yoursite.com/2020/02/27/NBUT1580/</id>
+    <published>2020-02-27T09:30:21.000Z</published>
+    <updated>2020-02-27T09:32:25.837Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://vjudge.net/problem/NBUT-1580&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;NBUT - 1580&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="背包DP" scheme="http://yoursite.com/tags/%E8%83%8C%E5%8C%85DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POJ - 3107 Godfather （树的重心）</title>
+    <link href="http://yoursite.com/2020/02/27/POJ3107/"/>
+    <id>http://yoursite.com/2020/02/27/POJ3107/</id>
+    <published>2020-02-27T09:26:02.000Z</published>
+    <updated>2020-02-27T09:29:37.251Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://poj.org/problem?id=3107&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;POJ - 3107&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces1285D - Dr. Evil Underscores</title>
+    <link href="http://yoursite.com/2020/02/27/CF1285D/"/>
+    <id>http://yoursite.com/2020/02/27/CF1285D/</id>
+    <published>2020-02-27T09:22:47.000Z</published>
+    <updated>2020-02-27T09:25:10.847Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1285/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="分治" scheme="http://yoursite.com/tags/%E5%88%86%E6%B2%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-148D Bag of mice（概率DP）</title>
@@ -488,53 +571,6 @@
     
     
       <category term="线性DP" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1195C Basketball Exercise（线性DP）</title>
-    <link href="http://yoursite.com/2019/10/30/CF1195C/"/>
-    <id>http://yoursite.com/2019/10/30/CF1195C/</id>
-    <published>2019-10-30T11:43:14.000Z</published>
-    <updated>2020-02-27T07:33:41.963Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1195/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 1195C&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a href=&quot;#一-题目描述&quot; class=&quot;headerlink&quot; title=&quot;一. 题目描述&quot;&gt;&lt;/a&gt;一. 题目描述&lt;/h2&gt;&lt;p&gt;Finally, a basketball court has been opened in SIS, so Demid has decided to hold a basketball exercise session. 2⋅n students have come to Demid’s exercise session, and he lined up them into two rows of the same size （there are exactly n people in each row）. Students are numbered from 1 to n in each row in order from left to right.&lt;/p&gt;
-&lt;p&gt;Now Demid wants to choose a team to play basketball. He will choose players from left to right, and the index of each chosen player （excluding the first one taken） will be strictly greater than the index of the previously chosen player. To avoid giving preference to one of the rows, Demid chooses students in such a way that no consecutive chosen students belong to the same row. The first student can be chosen among all 2n students （there are no additional constraints）, and a team can consist of any number of students.&lt;/p&gt;
-&lt;p&gt;Demid thinks, that in order to compose a perfect team, he should choose students in such a way, that the total height of all chosen students is maximum possible. Help Demid to find the maximum possible total height of players in a team he can choose.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线性DP" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1247B2 TV Subscriptions （Hard Version）</title>
-    <link href="http://yoursite.com/2019/10/30/CF1247B2/"/>
-    <id>http://yoursite.com/2019/10/30/CF1247B2/</id>
-    <published>2019-10-30T11:43:14.000Z</published>
-    <updated>2020-02-27T07:33:35.797Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1247/problem/B2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 1247B2&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a href=&quot;#一-题目描述&quot; class=&quot;headerlink&quot; title=&quot;一. 题目描述&quot;&gt;&lt;/a&gt;一. 题目描述&lt;/h2&gt;&lt;p&gt;The only difference between easy and hard versions is constraints.&lt;/p&gt;
-&lt;p&gt;The BerTV channel every day broadcasts one episode of one of the k TV shows. You know the schedule for the next n days: a sequence of integers a1,a2,…,an $(1≤a_i≤k)$, where ai is the show, the episode of which will be shown in i-th day.&lt;/p&gt;
-&lt;p&gt;The subscription to the show is bought for the entire show (i.e. for all its episodes), for each show the subscription is bought separately.&lt;/p&gt;
-&lt;p&gt;How many minimum subscriptions do you need to buy in order to have the opportunity to watch episodes of purchased shows d (1≤d≤n) days in a row? In other words, you want to buy the minimum number of TV shows so that there is some segment of d consecutive days in which all episodes belong to the purchased shows.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
     
   </entry>
   
