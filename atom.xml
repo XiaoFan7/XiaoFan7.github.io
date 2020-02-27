@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-27T05:43:55.004Z</updated>
+  <updated>2020-02-27T06:13:19.544Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,16 +18,16 @@
   
   <entry>
     <title>CodeForces-1247B2 TV Subscriptions (Hard Version)</title>
-    <link href="http://yoursite.com/2019/10/30/hello-world/"/>
-    <id>http://yoursite.com/2019/10/30/hello-world/</id>
+    <link href="http://yoursite.com/2019/10/30/CF1247B2/"/>
+    <id>http://yoursite.com/2019/10/30/CF1247B2/</id>
     <published>2019-10-30T11:43:14.000Z</published>
-    <updated>2020-02-27T05:43:55.004Z</updated>
+    <updated>2020-02-27T06:13:19.544Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1247/problem/B2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 1247B2&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;Description&quot;&gt;&lt;a href=&quot;#Description&quot; class=&quot;headerlink&quot; title=&quot;Description&quot;&gt;&lt;/a&gt;Description&lt;/h1&gt;&lt;p&gt;The only difference between easy and hard versions is constraints.&lt;/p&gt;
-&lt;p&gt;The BerTV channel every day broadcasts one episode of one of the k TV shows. You know the schedule for the next n days: a sequence of integers a1,a2,…,an (1≤ai≤k), where ai is the show, the episode of which will be shown in i-th day.&lt;/p&gt;
+&lt;h2 id=&quot;一-题目描述&quot;&gt;&lt;a href=&quot;#一-题目描述&quot; class=&quot;headerlink&quot; title=&quot;一. 题目描述&quot;&gt;&lt;/a&gt;一. 题目描述&lt;/h2&gt;&lt;p&gt;The only difference between easy and hard versions is constraints.&lt;/p&gt;
+&lt;p&gt;The BerTV channel every day broadcasts one episode of one of the k TV shows. You know the schedule for the next n days: a sequence of integers a1,a2,…,an $(1≤a_i≤k)$, where ai is the show, the episode of which will be shown in i-th day.&lt;/p&gt;
 &lt;p&gt;The subscription to the show is bought for the entire show (i.e. for all its episodes), for each show the subscription is bought separately.&lt;/p&gt;
 &lt;p&gt;How many minimum subscriptions do you need to buy in order to have the opportunity to watch episodes of purchased shows d (1≤d≤n) days in a row? In other words, you want to buy the minimum number of TV shows so that there is some segment of d consecutive days in which all episodes belong to the purchased shows.&lt;/p&gt;
     
