@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-28T15:37:43.750Z</updated>
+  <updated>2020-03-01T10:06:32.486Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,514 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 1303C Perfect Keyborad</title>
+    <link href="http://yoursite.com/2020/03/01/CF1303C/"/>
+    <id>http://yoursite.com/2020/03/01/CF1303C/</id>
+    <published>2020-03-01T10:05:11.000Z</published>
+    <updated>2020-03-01T10:06:32.486Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1303/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1313C Skyscrapers (单调栈)</title>
+    <link href="http://yoursite.com/2020/03/01/CF1313C/"/>
+    <id>http://yoursite.com/2020/03/01/CF1313C/</id>
+    <published>2020-03-01T10:03:59.000Z</published>
+    <updated>2020-03-01T10:04:57.769Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a href=&quot;#题目描述&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="单调栈" scheme="http://yoursite.com/tags/%E5%8D%95%E8%B0%83%E6%A0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>牛客小白月赛22 - B 树上子链（树的直径）</title>
+    <link href="http://yoursite.com/2020/03/01/NK4462B/"/>
+    <id>http://yoursite.com/2020/03/01/NK4462B/</id>
+    <published>2020-03-01T10:02:22.000Z</published>
+    <updated>2020-03-01T10:03:43.522Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/4462/B&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客小白月赛22 - B&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1303E Erase Subsequences</title>
+    <link href="http://yoursite.com/2020/03/01/CF1303E/"/>
+    <id>http://yoursite.com/2020/03/01/CF1303E/</id>
+    <published>2020-03-01T10:00:53.000Z</published>
+    <updated>2020-03-01T10:02:00.079Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1303/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洛谷 - P4513 小白逛公园</title>
+    <link href="http://yoursite.com/2020/03/01/luogu4513/"/>
+    <id>http://yoursite.com/2020/03/01/luogu4513/</id>
+    <published>2020-03-01T09:58:43.000Z</published>
+    <updated>2020-03-01T10:00:05.123Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P4513&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P4513&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020牛客寒假训练营Day6 - E 立方数</title>
+    <link href="http://yoursite.com/2020/03/01/2020NKCAMPD6E/"/>
+    <id>http://yoursite.com/2020/03/01/2020NKCAMPD6E/</id>
+    <published>2020-03-01T09:56:30.000Z</published>
+    <updated>2020-03-01T10:02:33.460Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/201985&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2020牛客寒假训练营Day6 - E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
+    
+      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Atcoder - 155D Pairs</title>
+    <link href="http://yoursite.com/2020/03/01/ATC155D/"/>
+    <id>http://yoursite.com/2020/03/01/ATC155D/</id>
+    <published>2020-03-01T09:54:44.000Z</published>
+    <updated>2020-03-01T09:55:46.788Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc155/tasks/abc155_d&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Atcoder -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020牛客寒假算法基础训练营Day1 - F maki和tree</title>
+    <link href="http://yoursite.com/2020/03/01/2020NKCAMPD1F/"/>
+    <id>http://yoursite.com/2020/03/01/2020NKCAMPD1F/</id>
+    <published>2020-03-01T09:49:34.000Z</published>
+    <updated>2020-03-01T09:53:52.034Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/3002/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Day1 - F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020牛客寒假算法基础训练营Day2 - J 求函数</title>
+    <link href="http://yoursite.com/2020/03/01/2020NKCAMPD2J/"/>
+    <id>http://yoursite.com/2020/03/01/2020NKCAMPD2J/</id>
+    <published>2020-03-01T09:45:54.000Z</published>
+    <updated>2020-03-01T09:48:58.704Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/200176&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Day2 - J&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HDU-1754 I Hate It</title>
+    <link href="http://yoursite.com/2020/03/01/HDU1754/"/>
+    <id>http://yoursite.com/2020/03/01/HDU1754/</id>
+    <published>2020-03-01T09:42:30.000Z</published>
+    <updated>2020-03-01T09:45:09.956Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=1754&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HUD - 1754&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="分块" scheme="http://yoursite.com/tags/%E5%88%86%E5%9D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1282D Enchanted Artifact</title>
+    <link href="http://yoursite.com/2020/03/01/CF1282D/"/>
+    <id>http://yoursite.com/2020/03/01/CF1282D/</id>
+    <published>2020-03-01T09:37:54.000Z</published>
+    <updated>2020-03-01T09:42:11.513Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1282/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="交互" scheme="http://yoursite.com/tags/%E4%BA%A4%E4%BA%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POJ - 2449 Remmarguts&#39; Date（ K短路 Astar ）</title>
+    <link href="http://yoursite.com/2020/03/01/POJ2449/"/>
+    <id>http://yoursite.com/2020/03/01/POJ2449/</id>
+    <published>2020-03-01T09:34:22.000Z</published>
+    <updated>2020-03-01T09:37:27.202Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/180/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AcWing - 180&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="A-star" scheme="http://yoursite.com/tags/A-star/"/>
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POJ-3468 A Simple Problem with Integers</title>
+    <link href="http://yoursite.com/2020/03/01/POJ3468/"/>
+    <id>http://yoursite.com/2020/03/01/POJ3468/</id>
+    <published>2020-03-01T09:31:51.000Z</published>
+    <updated>2020-03-01T09:34:02.571Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://poj.org/problem?id=3468&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;POJ - 3468&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="分块" scheme="http://yoursite.com/tags/%E5%88%86%E5%9D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HDU-1166 敌兵布阵</title>
+    <link href="http://yoursite.com/2020/03/01/HDU1166/"/>
+    <id>http://yoursite.com/2020/03/01/HDU1166/</id>
+    <published>2020-03-01T09:28:26.000Z</published>
+    <updated>2020-03-01T09:31:31.788Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=1166&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 1166&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="分块" scheme="http://yoursite.com/tags/%E5%88%86%E5%9D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1295C Obtain The String（二分 / 序列自动机）</title>
+    <link href="http://yoursite.com/2020/03/01/CF1295C/"/>
+    <id>http://yoursite.com/2020/03/01/CF1295C/</id>
+    <published>2020-03-01T09:24:41.000Z</published>
+    <updated>2020-03-01T09:27:27.632Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1295/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
+    
+      <category term="序列自动机" scheme="http://yoursite.com/tags/%E5%BA%8F%E5%88%97%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1295E Permutation Separation</title>
+    <link href="http://yoursite.com/2020/03/01/CF1295E/"/>
+    <id>http://yoursite.com/2020/03/01/CF1295E/</id>
+    <published>2020-03-01T09:21:27.000Z</published>
+    <updated>2020-03-01T09:24:15.186Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1295/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1295D Same GCDs （欧拉函数）</title>
+    <link href="http://yoursite.com/2020/03/01/CF1295D/"/>
+    <id>http://yoursite.com/2020/03/01/CF1295D/</id>
+    <published>2020-03-01T09:18:21.000Z</published>
+    <updated>2020-03-01T09:20:49.045Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1295/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1287D Numbers on Tree</title>
+    <link href="http://yoursite.com/2020/03/01/CF1287D/"/>
+    <id>http://yoursite.com/2020/03/01/CF1287D/</id>
+    <published>2020-03-01T09:15:06.000Z</published>
+    <updated>2020-03-01T09:17:01.113Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1287/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="深度优先搜索" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces985F - Isomorphic Strings</title>
@@ -68,519 +576,6 @@
     
     
       <category term="树状数组" scheme="http://yoursite.com/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces1294F - Three Paths on a Tree（树的直径）</title>
-    <link href="http://yoursite.com/2020/02/28/CF1294F/"/>
-    <id>http://yoursite.com/2020/02/28/CF1294F/</id>
-    <published>2020-02-28T15:30:57.000Z</published>
-    <updated>2020-02-28T15:32:47.134Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1294/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2756 飞行员配对方案问题 （网络流24题）</title>
-    <link href="http://yoursite.com/2020/02/28/luogu2756/"/>
-    <id>http://yoursite.com/2020/02/28/luogu2756/</id>
-    <published>2020-02-28T15:28:43.000Z</published>
-    <updated>2020-02-29T14:15:06.382Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2756&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2756&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Dijkstra 模板</title>
-    <link href="http://yoursite.com/2020/02/28/Dij/"/>
-    <id>http://yoursite.com/2020/02/28/Dij/</id>
-    <published>2020-02-28T15:19:40.000Z</published>
-    <updated>2020-02-28T15:23:23.692Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;复杂度：$O(（n+m）logm)$&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;
-&lt;span class=&quot;token macro property&quot;&gt;#&lt;span
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SPFA 模板</title>
-    <link href="http://yoursite.com/2020/02/28/SPFA/"/>
-    <id>http://yoursite.com/2020/02/28/SPFA/</id>
-    <published>2020-02-28T15:17:52.000Z</published>
-    <updated>2020-02-28T15:28:11.138Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;复杂度：$O(nm)$&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;&lt;span class=&quot;token macro property&quot;&gt;#&lt;span class=&quot;token
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LCA 详解</title>
-    <link href="http://yoursite.com/2020/02/28/LCA/"/>
-    <id>http://yoursite.com/2020/02/28/LCA/</id>
-    <published>2020-02-28T15:01:33.000Z</published>
-    <updated>2020-02-28T15:15:05.632Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;LCA（Least Common Ancestors），即最近公共祖先，是指在有根树中，找出某两个结点u和v最近的公共祖先。 ———来自百度百科&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCA" scheme="http://yoursite.com/tags/LCA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 3667 Transportation</title>
-    <link href="http://yoursite.com/2020/02/28/HDU3667/"/>
-    <id>http://yoursite.com/2020/02/28/HDU3667/</id>
-    <published>2020-02-28T14:58:17.000Z</published>
-    <updated>2020-02-28T14:59:45.466Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=3667&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 3667&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-      <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P3381 最小费用最大流 （SPFA费用流模板）</title>
-    <link href="http://yoursite.com/2020/02/28/luogu3381/"/>
-    <id>http://yoursite.com/2020/02/28/luogu3381/</id>
-    <published>2020-02-28T14:56:06.000Z</published>
-    <updated>2020-02-28T14:57:47.188Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3381&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3381&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-      <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 3061 Battle （最大权闭合图-最小割/最大流）</title>
-    <link href="http://yoursite.com/2020/02/28/HDU3061/"/>
-    <id>http://yoursite.com/2020/02/28/HDU3061/</id>
-    <published>2020-02-28T14:52:05.000Z</published>
-    <updated>2020-02-28T14:55:38.760Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=3061&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 3061&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-      <category term="最大权闭合图" scheme="http://yoursite.com/tags/%E6%9C%80%E5%A4%A7%E6%9D%83%E9%97%AD%E5%90%88%E5%9B%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 3549 Flow Problem （Dinic模板）</title>
-    <link href="http://yoursite.com/2020/02/28/HDU3549/"/>
-    <id>http://yoursite.com/2020/02/28/HDU3549/</id>
-    <published>2020-02-28T14:49:01.000Z</published>
-    <updated>2020-02-28T14:51:49.889Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=3549&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 3549&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Light oj 1074 - Extended Traffic（SPFA判负环）</title>
-    <link href="http://yoursite.com/2020/02/28/LTOJ1074/"/>
-    <id>http://yoursite.com/2020/02/28/LTOJ1074/</id>
-    <published>2020-02-28T14:46:59.000Z</published>
-    <updated>2020-02-28T14:50:17.118Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://lightoj.com/volume_showproblem.php?problem=1074&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Light oj -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces1228D - Complete Tripartite</title>
-    <link href="http://yoursite.com/2020/02/28/CF1228D/"/>
-    <id>http://yoursite.com/2020/02/28/CF1228D/</id>
-    <published>2020-02-28T14:44:10.000Z</published>
-    <updated>2020-02-28T14:46:20.017Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1228/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-      <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AcWing - 179.八数码</title>
-    <link href="http://yoursite.com/2020/02/28/ACW179/"/>
-    <id>http://yoursite.com/2020/02/28/ACW179/</id>
-    <published>2020-02-28T14:40:18.000Z</published>
-    <updated>2020-02-28T14:43:04.480Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/181/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AcWing - 179&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="A-star" scheme="http://yoursite.com/tags/A-star/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - I love you（线性DP）</title>
-    <link href="http://yoursite.com/2020/02/28/NK3947I/"/>
-    <id>http://yoursite.com/2020/02/28/NK3947I/</id>
-    <published>2020-02-28T14:37:51.000Z</published>
-    <updated>2020-02-28T14:39:56.629Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/3947/I&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 3947I&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线性DP" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P1908 逆序对（树状数组 + 离散化）</title>
-    <link href="http://yoursite.com/2020/02/28/luogu1908/"/>
-    <id>http://yoursite.com/2020/02/28/luogu1908/</id>
-    <published>2020-02-28T14:33:54.000Z</published>
-    <updated>2020-02-28T14:36:32.318Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1908&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P1908&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树状数组" scheme="http://yoursite.com/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
-    
-      <category term="逆序对" scheme="http://yoursite.com/tags/%E9%80%86%E5%BA%8F%E5%AF%B9/"/>
-    
-      <category term="离散化" scheme="http://yoursite.com/tags/%E7%A6%BB%E6%95%A3%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces1263E - Editor</title>
-    <link href="http://yoursite.com/2020/02/28/CF1263E/"/>
-    <id>http://yoursite.com/2020/02/28/CF1263E/</id>
-    <published>2020-02-28T14:29:01.000Z</published>
-    <updated>2020-02-28T14:33:07.879Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1263/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces1288D - Minimax Problem（二分 + 状压）</title>
-    <link href="http://yoursite.com/2020/02/28/CF1288D/"/>
-    <id>http://yoursite.com/2020/02/28/CF1288D/</id>
-    <published>2020-02-28T14:26:59.000Z</published>
-    <updated>2020-02-28T14:28:33.857Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1288/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P1879 [USACO06NOV]玉米田Corn Fields（状压DP）</title>
-    <link href="http://yoursite.com/2020/02/28/luogu1879/"/>
-    <id>http://yoursite.com/2020/02/28/luogu1879/</id>
-    <published>2020-02-28T14:25:07.000Z</published>
-    <updated>2020-02-28T14:26:35.632Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a href=&quot;#题目描述&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="状压DP" scheme="http://yoursite.com/tags/%E7%8A%B6%E5%8E%8BDP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BZOJ - 1087 [SCOI2005]互不侵犯King（状压DP）</title>
-    <link href="http://yoursite.com/2020/02/28/BZOJ1087/"/>
-    <id>http://yoursite.com/2020/02/28/BZOJ1087/</id>
-    <published>2020-02-28T14:22:26.000Z</published>
-    <updated>2020-02-28T14:24:05.091Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.lydsy.com/JudgeOnline/problem.php?id=1087&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;BZOJ -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="状压DP" scheme="http://yoursite.com/tags/%E7%8A%B6%E5%8E%8BDP/"/>
     
   </entry>
   
