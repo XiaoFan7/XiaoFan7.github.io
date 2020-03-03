@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-03T07:18:57.045Z</updated>
+  <updated>2020-03-03T12:04:03.595Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,67 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>洛谷 - P3391 文艺平衡树 （fhq Treap）</title>
+    <link href="http://yoursite.com/2020/03/03/luogu3391/"/>
+    <id>http://yoursite.com/2020/03/03/luogu3391/</id>
+    <published>2020-03-03T11:57:56.000Z</published>
+    <updated>2020-03-03T12:04:03.595Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3391&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3391&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="平衡树" scheme="http://yoursite.com/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洛谷 - P3369 普通平衡树 （fhq Treap）</title>
+    <link href="http://yoursite.com/2020/03/03/luogu3369/"/>
+    <id>http://yoursite.com/2020/03/03/luogu3369/</id>
+    <published>2020-03-03T10:49:59.000Z</published>
+    <updated>2020-03-03T12:04:21.072Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3369&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3369&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="平衡树" scheme="http://yoursite.com/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>洛谷 - P1494 [国家集训队]小Z的袜子</title>
     <link href="http://yoursite.com/2020/03/03/luogu1494/"/>
     <id>http://yoursite.com/2020/03/03/luogu1494/</id>
     <published>2020-03-03T07:00:57.000Z</published>
-    <updated>2020-03-03T07:18:57.045Z</updated>
+    <updated>2020-03-03T11:04:46.841Z</updated>
     
     <summary type="html">
     
@@ -316,9 +372,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
-    
       <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
     
   </entry>
   
@@ -519,65 +575,6 @@
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
       <category term="分块" scheme="http://yoursite.com/tags/%E5%88%86%E5%9D%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU-1166 敌兵布阵</title>
-    <link href="http://yoursite.com/2020/03/01/HDU1166/"/>
-    <id>http://yoursite.com/2020/03/01/HDU1166/</id>
-    <published>2020-03-01T09:28:26.000Z</published>
-    <updated>2020-03-01T09:31:31.788Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=1166&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 1166&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-      <category term="分块" scheme="http://yoursite.com/tags/%E5%88%86%E5%9D%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 1295C Obtain The String（二分 / 序列自动机）</title>
-    <link href="http://yoursite.com/2020/03/01/CF1295C/"/>
-    <id>http://yoursite.com/2020/03/01/CF1295C/</id>
-    <published>2020-03-01T09:24:41.000Z</published>
-    <updated>2020-03-01T09:27:27.632Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1295/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
-    
-      <category term="序列自动机" scheme="http://yoursite.com/tags/%E5%BA%8F%E5%88%97%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
     
   </entry>
   
