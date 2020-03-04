@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-03T12:04:03.595Z</updated>
+  <updated>2020-03-04T11:08:33.217Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P3384 轻重链剖分</title>
+    <link href="http://yoursite.com/2020/03/04/luogu3384/"/>
+    <id>http://yoursite.com/2020/03/04/luogu3384/</id>
+    <published>2020-03-04T10:35:43.000Z</published>
+    <updated>2020-03-04T11:08:33.217Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3384&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3384&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="树链剖分" scheme="http://yoursite.com/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洛谷 - P3834 主席树</title>
+    <link href="http://yoursite.com/2020/03/04/luogu3834/"/>
+    <id>http://yoursite.com/2020/03/04/luogu3834/</id>
+    <published>2020-03-04T10:27:29.000Z</published>
+    <updated>2020-03-04T10:33:56.247Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3834&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3834&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="主席树" scheme="http://yoursite.com/tags/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3391 文艺平衡树 （fhq Treap）</title>
@@ -515,66 +575,6 @@
     
     
       <category term="交互" scheme="http://yoursite.com/tags/%E4%BA%A4%E4%BA%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>POJ - 2449 Remmarguts&#39; Date（ K短路 Astar ）</title>
-    <link href="http://yoursite.com/2020/03/01/POJ2449/"/>
-    <id>http://yoursite.com/2020/03/01/POJ2449/</id>
-    <published>2020-03-01T09:34:22.000Z</published>
-    <updated>2020-03-01T09:37:27.202Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/180/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AcWing - 180&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="A-star" scheme="http://yoursite.com/tags/A-star/"/>
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>POJ-3468 A Simple Problem with Integers</title>
-    <link href="http://yoursite.com/2020/03/01/POJ3468/"/>
-    <id>http://yoursite.com/2020/03/01/POJ3468/</id>
-    <published>2020-03-01T09:31:51.000Z</published>
-    <updated>2020-03-01T09:34:02.571Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://poj.org/problem?id=3468&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;POJ - 3468&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-      <category term="分块" scheme="http://yoursite.com/tags/%E5%88%86%E5%9D%97/"/>
     
   </entry>
   
