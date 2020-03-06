@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-06T13:48:48.069Z</updated>
+  <updated>2020-03-06T15:14:15.367Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1316E Team Building</title>
+    <link href="http://yoursite.com/2020/03/06/CF1316E/"/>
+    <id>http://yoursite.com/2020/03/06/CF1316E/</id>
+    <published>2020-03-06T15:03:35.000Z</published>
+    <updated>2020-03-06T15:14:15.367Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1316/E&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="状压DP" scheme="http://yoursite.com/tags/%E7%8A%B6%E5%8E%8BDP/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1307D Cow and Fields</title>
@@ -518,9 +545,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
-    
       <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
     
   </entry>
   
@@ -548,34 +575,6 @@
     
     
       <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020牛客寒假算法基础训练营Day1 - F maki和tree</title>
-    <link href="http://yoursite.com/2020/03/01/2020NKCAMPD1F/"/>
-    <id>http://yoursite.com/2020/03/01/2020NKCAMPD1F/</id>
-    <published>2020-03-01T09:49:34.000Z</published>
-    <updated>2020-03-01T09:53:52.034Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/3002/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Day1 - F&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     
   </entry>
   
