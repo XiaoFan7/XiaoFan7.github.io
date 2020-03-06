@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-06T16:26:27.991Z</updated>
+  <updated>2020-03-06T16:37:02.186Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/03/07/CF1305D/"/>
     <id>http://yoursite.com/2020/03/07/CF1305D/</id>
     <published>2020-03-06T16:12:21.000Z</published>
-    <updated>2020-03-06T16:26:27.991Z</updated>
+    <updated>2020-03-06T16:37:02.186Z</updated>
     
     <summary type="html">
     
@@ -39,7 +39,7 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="交互题" scheme="http://yoursite.com/tags/%E4%BA%A4%E4%BA%92%E9%A2%98/"/>
+      <category term="交互" scheme="http://yoursite.com/tags/%E4%BA%A4%E4%BA%92/"/>
     
   </entry>
   
