@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-04T12:52:52.864Z</updated>
+  <updated>2020-03-06T13:48:48.069Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1307D Cow and Fields</title>
+    <link href="http://yoursite.com/2020/03/06/CF1307D/"/>
+    <id>http://yoursite.com/2020/03/06/CF1307D/</id>
+    <published>2020-03-06T13:07:31.000Z</published>
+    <updated>2020-03-06T13:48:48.069Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1307/D&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1321D  Navigation System</title>
@@ -549,34 +576,6 @@
     
     
       <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020牛客寒假算法基础训练营Day2 - J 求函数</title>
-    <link href="http://yoursite.com/2020/03/01/2020NKCAMPD2J/"/>
-    <id>http://yoursite.com/2020/03/01/2020NKCAMPD2J/</id>
-    <published>2020-03-01T09:45:54.000Z</published>
-    <updated>2020-03-01T09:48:58.704Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/200176&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Day2 - J&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
