@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-18T11:23:00.407Z</updated>
+  <updated>2020-03-20T13:36:08.048Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1326D Prefix-Suffix Palindrome</title>
+    <link href="http://yoursite.com/2020/03/20/CF1326D/"/>
+    <id>http://yoursite.com/2020/03/20/CF1326D/</id>
+    <published>2020-03-20T13:10:47.000Z</published>
+    <updated>2020-03-20T13:36:08.048Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1326/D2&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
+    
+      <category term="kmp" scheme="http://yoursite.com/tags/kmp/"/>
+    
+      <category term="manacher" scheme="http://yoursite.com/tags/manacher/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1301F Super Jaber</title>
@@ -538,33 +569,6 @@
     
     
       <category term="状压DP" scheme="http://yoursite.com/tags/%E7%8A%B6%E5%8E%8BDP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1307D Cow and Fields</title>
-    <link href="http://yoursite.com/2020/03/06/CF1307D/"/>
-    <id>http://yoursite.com/2020/03/06/CF1307D/</id>
-    <published>2020-03-06T13:07:31.000Z</published>
-    <updated>2020-03-06T13:48:48.069Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1307/D&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
   </entry>
   
