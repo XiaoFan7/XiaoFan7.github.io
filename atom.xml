@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-20T13:36:08.048Z</updated>
+  <updated>2020-03-21T09:19:58.108Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P5490 扫描线</title>
+    <link href="http://yoursite.com/2020/03/21/luogu5490/"/>
+    <id>http://yoursite.com/2020/03/21/luogu5490/</id>
+    <published>2020-03-21T09:18:08.000Z</published>
+    <updated>2020-03-21T09:19:58.108Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P5490&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P5490&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1326D Prefix-Suffix Palindrome</title>
@@ -542,33 +570,6 @@
     
     
       <category term="交互" scheme="http://yoursite.com/tags/%E4%BA%A4%E4%BA%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1316E Team Building</title>
-    <link href="http://yoursite.com/2020/03/06/CF1316E/"/>
-    <id>http://yoursite.com/2020/03/06/CF1316E/</id>
-    <published>2020-03-06T15:03:35.000Z</published>
-    <updated>2020-03-06T15:14:15.367Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1316/E&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="状压DP" scheme="http://yoursite.com/tags/%E7%8A%B6%E5%8E%8BDP/"/>
     
   </entry>
   
