@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-27T10:37:32.419Z</updated>
+  <updated>2020-03-27T10:47:13.057Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1328E Tree Queries</title>
+    <link href="http://yoursite.com/2020/03/27/CF1328E/"/>
+    <id>http://yoursite.com/2020/03/27/CF1328E/</id>
+    <published>2020-03-27T10:42:32.000Z</published>
+    <updated>2020-03-27T10:47:13.057Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1328/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1328E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCA" scheme="http://yoursite.com/tags/LCA/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - 13230 合并回文子串</title>
@@ -542,35 +570,6 @@
     
     
       <category term="区间DP" scheme="http://yoursite.com/tags/%E5%8C%BA%E9%97%B4DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1323D Present</title>
-    <link href="http://yoursite.com/2020/03/10/CF1323D/"/>
-    <id>http://yoursite.com/2020/03/10/CF1323D/</id>
-    <published>2020-03-10T11:51:24.000Z</published>
-    <updated>2020-03-10T12:08:50.072Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1323/D&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
-    
-      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
     
   </entry>
   
