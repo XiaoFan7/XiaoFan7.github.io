@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-30T17:04:28.364Z</updated>
+  <updated>2020-04-05T10:24:26.633Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学军网络邀请赛 - B 齐心抗疫（树的直径）</title>
+    <link href="http://yoursite.com/2020/04/05/xjB/"/>
+    <id>http://yoursite.com/2020/04/05/xjB/</id>
+    <published>2020-04-05T10:17:02.000Z</published>
+    <updated>2020-04-05T10:24:26.633Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;思路分析&quot;&gt;&lt;a href=&quot;#思路分析&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - MMset2</title>
@@ -545,33 +572,6 @@
     
     
       <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-      <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1281C Cut and Paste</title>
-    <link href="http://yoursite.com/2020/03/14/CF1281C/"/>
-    <id>http://yoursite.com/2020/03/14/CF1281C/</id>
-    <published>2020-03-14T07:50:56.000Z</published>
-    <updated>2020-03-14T07:53:35.997Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1281/C&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
     
       <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
     
