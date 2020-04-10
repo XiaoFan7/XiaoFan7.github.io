@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-09T13:41:35.509Z</updated>
+  <updated>2020-04-10T05:21:24.920Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1215D Ticket Game</title>
+    <link href="http://yoursite.com/2020/04/10/CF1215D/"/>
+    <id>http://yoursite.com/2020/04/10/CF1215D/</id>
+    <published>2020-04-10T05:16:02.000Z</published>
+    <updated>2020-04-10T05:21:24.920Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1215/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1215D&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="博弈" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%BC%88/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1333D Challenges in school №41</title>
@@ -68,9 +96,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
-    
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
     
   </entry>
   
@@ -547,34 +575,6 @@
       <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
       <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 3308 LCIS</title>
-    <link href="http://yoursite.com/2020/03/17/HDU3308/"/>
-    <id>http://yoursite.com/2020/03/17/HDU3308/</id>
-    <published>2020-03-17T07:19:30.000Z</published>
-    <updated>2020-03-17T07:23:51.375Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=3308&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 3308&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
