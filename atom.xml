@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-10T05:21:24.920Z</updated>
+  <updated>2020-04-11T08:20:01.006Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客练习赛61 - D 最短路变短了</title>
+    <link href="http://yoursite.com/2020/04/11/nk5026D/"/>
+    <id>http://yoursite.com/2020/04/11/nk5026D/</id>
+    <published>2020-04-11T08:08:03.000Z</published>
+    <updated>2020-04-11T08:20:01.006Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5026/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客练习赛61 - D&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+      <category term="Tarjan" scheme="http://yoursite.com/tags/Tarjan/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1215D Ticket Game</title>
@@ -545,36 +575,6 @@
     
     
       <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6582 Path</title>
-    <link href="http://yoursite.com/2020/03/17/HDU6582/"/>
-    <id>http://yoursite.com/2020/03/17/HDU6582/</id>
-    <published>2020-03-17T07:32:55.000Z</published>
-    <updated>2020-03-17T07:38:51.118Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6582&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6582&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
   </entry>
   
