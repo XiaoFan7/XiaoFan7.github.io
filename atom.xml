@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-11T09:54:38.872Z</updated>
+  <updated>2020-04-14T06:57:23.136Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - 黑白树</title>
+    <link href="http://yoursite.com/2020/04/14/nk13249/"/>
+    <id>http://yoursite.com/2020/04/14/nk13249/</id>
+    <published>2020-04-14T06:53:29.000Z</published>
+    <updated>2020-04-14T06:57:23.136Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/13249&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 黑白树&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="贪心" scheme="http://yoursite.com/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>牛客 - 树</title>
+    <link href="http://yoursite.com/2020/04/14/nk13611/"/>
+    <id>http://yoursite.com/2020/04/14/nk13611/</id>
+    <published>2020-04-14T06:48:57.000Z</published>
+    <updated>2020-04-14T06:52:40.236Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/13611&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 树&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客练习赛61 - E 相似的子串</title>
@@ -524,60 +582,6 @@
     
     
       <category term="LCA" scheme="http://yoursite.com/tags/LCA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1321E Battle for Azathoth</title>
-    <link href="http://yoursite.com/2020/03/18/CF1321E/"/>
-    <id>http://yoursite.com/2020/03/18/CF1321E/</id>
-    <published>2020-03-17T16:44:05.000Z</published>
-    <updated>2020-03-17T16:45:45.165Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1321/E&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1305F Kuroni and the Punishment</title>
-    <link href="http://yoursite.com/2020/03/17/CF1305F/"/>
-    <id>http://yoursite.com/2020/03/17/CF1305F/</id>
-    <published>2020-03-17T14:12:41.000Z</published>
-    <updated>2020-03-17T14:25:43.627Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1305/F&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="随机化" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
   </entry>
   
