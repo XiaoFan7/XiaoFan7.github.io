@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-20T11:41:11.200Z</updated>
+  <updated>2020-04-20T11:59:43.785Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Atcoder - 163F path pass i</title>
+    <link href="http://yoursite.com/2020/04/20/atc163F/"/>
+    <id>http://yoursite.com/2020/04/20/atc163F/</id>
+    <published>2020-04-20T11:50:51.000Z</published>
+    <updated>2020-04-20T11:59:43.785Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc163/tasks/abc163_f&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Atcoder -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - Accumulation Degree （换根）</title>
@@ -556,33 +583,6 @@
       <category term="kmp" scheme="http://yoursite.com/tags/kmp/"/>
     
       <category term="manacher" scheme="http://yoursite.com/tags/manacher/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1301F Super Jaber</title>
-    <link href="http://yoursite.com/2020/03/18/CF1301F/"/>
-    <id>http://yoursite.com/2020/03/18/CF1301F/</id>
-    <published>2020-03-18T11:14:57.000Z</published>
-    <updated>2020-03-18T11:23:00.407Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://codeforces.com/problemset/problem/1301/F&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="BFS" scheme="http://yoursite.com/tags/BFS/"/>
     
   </entry>
   
