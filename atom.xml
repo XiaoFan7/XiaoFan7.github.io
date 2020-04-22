@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-20T14:57:54.680Z</updated>
+  <updated>2020-04-22T09:10:40.796Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1343E Weights Distributing</title>
+    <link href="http://yoursite.com/2020/04/22/CF1343E/"/>
+    <id>http://yoursite.com/2020/04/22/CF1343E/</id>
+    <published>2020-04-22T09:07:02.000Z</published>
+    <updated>2020-04-22T09:10:40.796Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1343/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1343E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P1772 [ZJOI2006]物流运输</title>
@@ -384,9 +414,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
       <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
@@ -556,34 +586,6 @@
       <category term="树上启发式合并" scheme="http://yoursite.com/tags/%E6%A0%91%E4%B8%8A%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/"/>
     
       <category term="树链剖分" scheme="http://yoursite.com/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1328E Tree Queries</title>
-    <link href="http://yoursite.com/2020/03/27/CF1328E/"/>
-    <id>http://yoursite.com/2020/03/27/CF1328E/</id>
-    <published>2020-03-27T10:42:32.000Z</published>
-    <updated>2020-03-27T10:51:11.427Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1328/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1328E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCA" scheme="http://yoursite.com/tags/LCA/"/>
     
   </entry>
   
