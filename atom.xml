@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-22T17:31:02.422Z</updated>
+  <updated>2020-04-23T09:08:54.998Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P2633 Count on a tree</title>
+    <link href="http://yoursite.com/2020/04/23/luogu2633/"/>
+    <id>http://yoursite.com/2020/04/23/luogu2633/</id>
+    <published>2020-04-23T09:06:03.000Z</published>
+    <updated>2020-04-23T09:08:54.998Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2633&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2633&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="主席树" scheme="http://yoursite.com/tags/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1281E Jeremy Bearimy</title>
@@ -70,9 +98,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
       <category term="拓扑排序" scheme="http://yoursite.com/tags/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F/"/>
+    
+      <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
     
   </entry>
   
@@ -501,9 +529,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
-    
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
     
   </entry>
   
@@ -559,34 +587,6 @@
     
     
       <category term="LCA" scheme="http://yoursite.com/tags/LCA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 城市网络</title>
-    <link href="http://yoursite.com/2020/03/31/nk13331/"/>
-    <id>http://yoursite.com/2020/03/31/nk13331/</id>
-    <published>2020-03-30T16:23:48.000Z</published>
-    <updated>2020-03-30T16:33:59.069Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/13331&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 城市网络&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="倍增" scheme="http://yoursite.com/tags/%E5%80%8D%E5%A2%9E/"/>
     
   </entry>
   
