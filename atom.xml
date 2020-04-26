@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-24T06:18:16.356Z</updated>
+  <updated>2020-04-26T05:43:50.273Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - 挑战赛39C 牛牛的等差数列</title>
+    <link href="http://yoursite.com/2020/04/26/nk204829/"/>
+    <id>http://yoursite.com/2020/04/26/nk204829/</id>
+    <published>2020-04-26T05:41:02.000Z</published>
+    <updated>2020-04-26T05:43:50.273Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5157/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 挑战赛39C&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>2019CCPC - Final K.Russian Dolls on the Tree</title>
@@ -560,33 +588,6 @@
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
       <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>学军网络邀请赛 - B 齐心抗疫（树的直径）</title>
-    <link href="http://yoursite.com/2020/04/05/xjB/"/>
-    <id>http://yoursite.com/2020/04/05/xjB/</id>
-    <published>2020-04-05T10:17:02.000Z</published>
-    <updated>2020-04-05T10:27:17.748Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;思路分析&quot;&gt;&lt;a href=&quot;#思路分析&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
     
   </entry>
   
