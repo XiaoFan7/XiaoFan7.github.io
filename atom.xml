@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-26T05:43:50.273Z</updated>
+  <updated>2020-04-26T06:21:30.400Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - 练习赛62C 牛牛染颜色</title>
+    <link href="http://yoursite.com/2020/04/26/nk5205C/"/>
+    <id>http://yoursite.com/2020/04/26/nk5205C/</id>
+    <published>2020-04-26T06:12:39.000Z</published>
+    <updated>2020-04-26T06:21:30.400Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5205/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 练习赛62C&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - 挑战赛39C 牛牛的等差数列</title>
@@ -558,36 +586,6 @@
     
     
       <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1114F Another Queries on Array?</title>
-    <link href="http://yoursite.com/2020/04/09/CF1114F/"/>
-    <id>http://yoursite.com/2020/04/09/CF1114F/</id>
-    <published>2020-04-09T13:32:40.000Z</published>
-    <updated>2020-04-09T13:40:00.326Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1114/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1114F&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
     
   </entry>
   
