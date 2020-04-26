@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>clean</title>
-      <link href="/2020/04/26/clean/"/>
-      <url>/2020/04/26/clean/</url>
-      
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>CodeForces-1341D Nastya and Scoreboard</title>
       <link href="/2020/04/26/CF1341D/"/>
       <url>/2020/04/26/CF1341D/</url>
@@ -1292,9 +1279,9 @@
       
         <tags>
             
-            <tag> 二分 </tag>
-            
             <tag> 数论 </tag>
+            
+            <tag> 二分 </tag>
             
         </tags>
       
@@ -1802,9 +1789,9 @@
       
         <tags>
             
-            <tag> 二分 </tag>
-            
             <tag> 数论 </tag>
+            
+            <tag> 二分 </tag>
             
         </tags>
       
