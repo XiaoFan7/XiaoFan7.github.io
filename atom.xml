@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-28T08:12:58.416Z</updated>
+  <updated>2020-04-28T09:51:24.457Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1253E Antenna Coverage</title>
+    <link href="http://yoursite.com/2020/04/28/CF1253E/"/>
+    <id>http://yoursite.com/2020/04/28/CF1253E/</id>
+    <published>2020-04-28T09:44:58.000Z</published>
+    <updated>2020-04-28T09:51:24.457Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1253/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1253E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1253D Harmonious Graph</title>
@@ -548,33 +576,6 @@
         
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc163/tasks/abc163_f&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Atcoder -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - Accumulation Degree （换根）</title>
-    <link href="http://yoursite.com/2020/04/20/nk51180/"/>
-    <id>http://yoursite.com/2020/04/20/nk51180/</id>
-    <published>2020-04-20T11:39:12.000Z</published>
-    <updated>2020-04-20T11:41:11.200Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/51180&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Accumulation
         
       
     
