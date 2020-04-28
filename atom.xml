@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-27T13:31:50.716Z</updated>
+  <updated>2020-04-28T08:12:58.416Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1253D Harmonious Graph</title>
+    <link href="http://yoursite.com/2020/04/28/CF1253D/"/>
+    <id>http://yoursite.com/2020/04/28/CF1253D/</id>
+    <published>2020-04-28T08:10:10.000Z</published>
+    <updated>2020-04-28T08:12:58.416Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1253/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1253D&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>pb_ds 一个强大的黑科技</title>
@@ -547,34 +575,6 @@
         
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/51180&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Accumulation
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 树学 （换根）</title>
-    <link href="http://yoursite.com/2020/04/20/nk201400/"/>
-    <id>http://yoursite.com/2020/04/20/nk201400/</id>
-    <published>2020-04-20T11:33:05.000Z</published>
-    <updated>2020-04-20T11:38:53.572Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/201400&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 树学&lt;/a&gt;&lt;/p&gt;
-&lt;h2
         
       
     
