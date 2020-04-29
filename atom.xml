@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-29T10:50:36.294Z</updated>
+  <updated>2020-04-29T15:48:12.180Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1343F Restore the Permutation</title>
+    <link href="http://yoursite.com/2020/04/29/CF1343F/"/>
+    <id>http://yoursite.com/2020/04/29/CF1343F/</id>
+    <published>2020-04-29T15:40:08.000Z</published>
+    <updated>2020-04-29T15:48:12.180Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1343/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1343F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1245D Shichikuji and Power Grid</title>
@@ -552,36 +580,6 @@
     
     
       <category term="主席树" scheme="http://yoursite.com/tags/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1281E Jeremy Bearimy</title>
-    <link href="http://yoursite.com/2020/04/23/CF1281E/"/>
-    <id>http://yoursite.com/2020/04/23/CF1281E/</id>
-    <published>2020-04-22T17:26:13.000Z</published>
-    <updated>2020-04-22T17:31:02.422Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1281/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1281E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="贪心" scheme="http://yoursite.com/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
     
   </entry>
   
