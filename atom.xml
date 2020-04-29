@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-28T14:39:16.241Z</updated>
+  <updated>2020-04-29T06:30:10.771Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1243D 0 - 1 MST</title>
+    <link href="http://yoursite.com/2020/04/29/CF1243D/"/>
+    <id>http://yoursite.com/2020/04/29/CF1243D/</id>
+    <published>2020-04-29T06:16:48.000Z</published>
+    <updated>2020-04-29T06:30:10.771Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1243/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1243D&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1257E The Contest</title>
@@ -555,36 +583,6 @@
     
     
       <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P1772 [ZJOI2006]物流运输</title>
-    <link href="http://yoursite.com/2020/04/20/luogu1772/"/>
-    <id>http://yoursite.com/2020/04/20/luogu1772/</id>
-    <published>2020-04-20T14:55:08.000Z</published>
-    <updated>2020-04-20T14:57:54.680Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1772&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P1772&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
     
       <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
