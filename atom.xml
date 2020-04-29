@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-29T08:10:28.402Z</updated>
+  <updated>2020-04-29T08:44:36.674Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1256F Equalizing Two Strings</title>
+    <link href="http://yoursite.com/2020/04/29/CF1256F/"/>
+    <id>http://yoursite.com/2020/04/29/CF1256F/</id>
+    <published>2020-04-29T08:40:35.000Z</published>
+    <updated>2020-04-29T08:44:36.674Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1253/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1256F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1256E Yet Another Division</title>
@@ -556,33 +584,6 @@
       <category term="拓扑排序" scheme="http://yoursite.com/tags/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F/"/>
     
       <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1221D Make The Fence Great</title>
-    <link href="http://yoursite.com/2020/04/22/CF1221D/"/>
-    <id>http://yoursite.com/2020/04/22/CF1221D/</id>
-    <published>2020-04-22T09:56:44.000Z</published>
-    <updated>2020-04-22T09:59:30.435Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1221/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1221D Make The
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
     
   </entry>
   
