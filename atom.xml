@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-30T09:27:21.698Z</updated>
+  <updated>2020-04-30T12:19:56.480Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1248C Ivan the Fool</title>
+    <link href="http://yoursite.com/2020/04/30/CF1248C/"/>
+    <id>http://yoursite.com/2020/04/30/CF1248C/</id>
+    <published>2020-04-30T12:15:16.000Z</published>
+    <updated>2020-04-30T12:19:56.480Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1248/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1248C&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="计数DP" scheme="http://yoursite.com/tags/%E8%AE%A1%E6%95%B0DP/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1251D Salary Changing</title>
@@ -552,34 +580,6 @@
     
     
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2019CCPC - Final K.Russian Dolls on the Tree</title>
-    <link href="http://yoursite.com/2020/04/24/2019-CCPC-final-K/"/>
-    <id>http://yoursite.com/2020/04/24/2019-CCPC-final-K/</id>
-    <published>2020-04-24T06:13:49.000Z</published>
-    <updated>2020-04-24T06:18:16.356Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/gym/102431/problem/K&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;gym - 102431K&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树上启发式合并" scheme="http://yoursite.com/tags/%E6%A0%91%E4%B8%8A%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/"/>
     
   </entry>
   
