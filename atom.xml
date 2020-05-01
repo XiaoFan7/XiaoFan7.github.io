@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-30T12:19:56.480Z</updated>
+  <updated>2020-05-01T07:24:45.505Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1016C Vasya And The Mushrooms</title>
+    <link href="http://yoursite.com/2020/05/01/CF1016C/"/>
+    <id>http://yoursite.com/2020/05/01/CF1016C/</id>
+    <published>2020-05-01T07:19:48.000Z</published>
+    <updated>2020-05-01T07:24:45.505Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1248/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1016C&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1248C Ivan the Fool</title>
@@ -552,34 +580,6 @@
     
     
       <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 挑战赛39C 牛牛的等差数列</title>
-    <link href="http://yoursite.com/2020/04/26/nk204829/"/>
-    <id>http://yoursite.com/2020/04/26/nk204829/</id>
-    <published>2020-04-26T05:41:02.000Z</published>
-    <updated>2020-04-26T05:43:50.273Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5157/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 挑战赛39C&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
