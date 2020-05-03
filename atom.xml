@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-01T07:24:45.505Z</updated>
+  <updated>2020-05-03T08:14:32.780Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Atcoder - 165F Lis on Tree</title>
+    <link href="http://yoursite.com/2020/05/03/atc165F/"/>
+    <id>http://yoursite.com/2020/05/03/atc165F/</id>
+    <published>2020-05-03T08:12:00.000Z</published>
+    <updated>2020-05-03T08:14:32.780Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc165/tasks/abc165_f&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Atcoder -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1016C Vasya And The Mushrooms</title>
@@ -552,34 +579,6 @@
       <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
     
       <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 练习赛62C 牛牛染颜色</title>
-    <link href="http://yoursite.com/2020/04/26/nk5205C/"/>
-    <id>http://yoursite.com/2020/04/26/nk5205C/</id>
-    <published>2020-04-26T06:12:39.000Z</published>
-    <updated>2020-04-26T06:21:30.400Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5205/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 练习赛62C&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
     
   </entry>
   
