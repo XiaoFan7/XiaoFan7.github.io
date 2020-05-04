@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-04T06:13:19.974Z</updated>
+  <updated>2020-05-04T09:55:58.583Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1348E Phoenix and Berries</title>
+    <link href="http://yoursite.com/2020/05/04/CF1348E/"/>
+    <id>http://yoursite.com/2020/05/04/CF1348E/</id>
+    <published>2020-05-04T09:39:47.000Z</published>
+    <updated>2020-05-04T09:55:58.583Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1348/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1348E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - 王国</title>
@@ -547,34 +575,6 @@
     
     
       <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1341E Unexpected Guest （01-BFS）</title>
-    <link href="http://yoursite.com/2020/04/27/CF1341E/"/>
-    <id>http://yoursite.com/2020/04/27/CF1341E/</id>
-    <published>2020-04-27T06:08:10.000Z</published>
-    <updated>2020-04-27T06:13:48.141Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1341/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1341E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="BFS" scheme="http://yoursite.com/tags/BFS/"/>
     
   </entry>
   
