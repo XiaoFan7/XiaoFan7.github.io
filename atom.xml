@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-15T07:14:01.925Z</updated>
+  <updated>2020-05-16T10:50:40.463Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 4417 Super Mario 区间值域个数</title>
+    <link href="http://yoursite.com/2020/05/16/HDU4417/"/>
+    <id>http://yoursite.com/2020/05/16/HDU4417/</id>
+    <published>2020-05-16T10:48:22.000Z</published>
+    <updated>2020-05-16T10:50:40.463Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=4417&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 4417&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="主席树" scheme="http://yoursite.com/tags/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-1353F Decreasing Heights</title>
@@ -545,34 +573,6 @@
       <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
     
       <category term="树状数组" scheme="http://yoursite.com/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1257D Monster Killing Problem</title>
-    <link href="http://yoursite.com/2020/04/28/CF1257D/"/>
-    <id>http://yoursite.com/2020/04/28/CF1257D/</id>
-    <published>2020-04-28T12:54:47.000Z</published>
-    <updated>2020-04-28T12:57:10.427Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1253/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1257D&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="贪心" scheme="http://yoursite.com/tags/%E8%B4%AA%E5%BF%83/"/>
     
   </entry>
   
