@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-26T02:16:41.042Z</updated>
+  <updated>2020-05-26T05:50:37.384Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-992E King-Shamans</title>
+    <link href="http://yoursite.com/2020/05/26/CF992E/"/>
+    <id>http://yoursite.com/2020/05/26/CF992E/</id>
+    <published>2020-05-26T05:45:49.000Z</published>
+    <updated>2020-05-26T05:50:37.384Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/992/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-992E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-765F Souvenirs</title>
@@ -548,34 +576,6 @@
     
     
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1016C Vasya And The Mushrooms</title>
-    <link href="http://yoursite.com/2020/05/01/CF1016C/"/>
-    <id>http://yoursite.com/2020/05/01/CF1016C/</id>
-    <published>2020-05-01T07:19:48.000Z</published>
-    <updated>2020-05-01T07:24:45.505Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1248/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1016C&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
     
   </entry>
   
