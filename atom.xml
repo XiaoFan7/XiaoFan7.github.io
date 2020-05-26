@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-26T05:50:37.384Z</updated>
+  <updated>2020-05-26T11:52:45.381Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P1456 Monkey King</title>
+    <link href="http://yoursite.com/2020/05/26/luogu1456/"/>
+    <id>http://yoursite.com/2020/05/26/luogu1456/</id>
+    <published>2020-05-26T11:50:51.000Z</published>
+    <updated>2020-05-26T11:52:45.381Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1456&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P1456&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树合并" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%90%88%E5%B9%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces-992E King-Shamans</title>
@@ -539,33 +567,6 @@
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/205837&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 智乃与无意义的题目&lt;/a&gt;&lt;/p&gt;
 &lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Atcoder - 165F Lis on Tree</title>
-    <link href="http://yoursite.com/2020/05/03/atc165F/"/>
-    <id>http://yoursite.com/2020/05/03/atc165F/</id>
-    <published>2020-05-03T08:12:00.000Z</published>
-    <updated>2020-05-03T08:14:32.780Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc165/tasks/abc165_f&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Atcoder -
         
       
     
