@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-24T07:04:07.240Z</updated>
+  <updated>2020-05-26T02:16:41.042Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-765F Souvenirs</title>
+    <link href="http://yoursite.com/2020/05/26/CF765F/"/>
+    <id>http://yoursite.com/2020/05/26/CF765F/</id>
+    <published>2020-05-26T02:06:10.000Z</published>
+    <updated>2020-05-26T02:16:41.042Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/765/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-765F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CoderForces-1354F Summoning Minions</title>
@@ -548,34 +576,6 @@
     
     
       <category term="思维" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1248C Ivan the Fool</title>
-    <link href="http://yoursite.com/2020/04/30/CF1248C/"/>
-    <id>http://yoursite.com/2020/04/30/CF1248C/</id>
-    <published>2020-04-30T12:15:16.000Z</published>
-    <updated>2020-04-30T12:19:56.480Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1248/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1248C&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="计数DP" scheme="http://yoursite.com/tags/%E8%AE%A1%E6%95%B0DP/"/>
     
   </entry>
   
