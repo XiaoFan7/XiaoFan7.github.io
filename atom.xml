@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-29T14:05:34.085Z</updated>
+  <updated>2020-05-30T11:43:32.395Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1009F Dominant Indeces</title>
+    <link href="http://yoursite.com/2020/05/30/CF1009F/"/>
+    <id>http://yoursite.com/2020/05/30/CF1009F/</id>
+    <published>2020-05-30T11:36:38.000Z</published>
+    <updated>2020-05-30T11:43:32.395Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/600/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1009F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树上启发式合并" scheme="http://yoursite.com/tags/%E6%A0%91%E4%B8%8A%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/"/>
+    
+      <category term="线段树合并" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%90%88%E5%B9%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P4556 雨天的尾巴 （树上差分）</title>
@@ -549,34 +579,6 @@
     
     
       <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 王国</title>
-    <link href="http://yoursite.com/2020/05/04/nk205899/"/>
-    <id>http://yoursite.com/2020/05/04/nk205899/</id>
-    <published>2020-05-04T06:06:54.000Z</published>
-    <updated>2020-05-04T06:13:19.974Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/205899&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 王国&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCA" scheme="http://yoursite.com/tags/LCA/"/>
     
   </entry>
   
