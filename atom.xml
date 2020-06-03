@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-03T10:24:58.370Z</updated>
+  <updated>2020-06-03T10:50:52.720Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P3332 $[ZJOI2013]$ K大数查询</title>
+    <link href="http://yoursite.com/2020/06/03/luogu3332/"/>
+    <id>http://yoursite.com/2020/06/03/luogu3332/</id>
+    <published>2020-06-03T10:44:55.000Z</published>
+    <updated>2020-06-03T10:50:52.720Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3332&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3332&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树套树" scheme="http://yoursite.com/tags/%E6%A0%91%E5%A5%97%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3810 陌上花开</title>
@@ -551,34 +579,6 @@
     
     
       <category term="组合数学" scheme="http://yoursite.com/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1350E Orac and Game of Life</title>
-    <link href="http://yoursite.com/2020/05/13/CF1350E/"/>
-    <id>http://yoursite.com/2020/05/13/CF1350E/</id>
-    <published>2020-05-13T09:12:55.000Z</published>
-    <updated>2020-05-13T09:15:08.082Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1350/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1350E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="BFS" scheme="http://yoursite.com/tags/BFS/"/>
     
   </entry>
   
