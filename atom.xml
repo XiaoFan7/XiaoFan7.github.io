@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-03T10:52:32.520Z</updated>
+  <updated>2020-06-15T12:33:18.091Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 5306 Gorgeous Sequence</title>
+    <link href="http://yoursite.com/2020/06/15/HDU5306/"/>
+    <id>http://yoursite.com/2020/06/15/HDU5306/</id>
+    <published>2020-06-15T12:27:36.000Z</published>
+    <updated>2020-06-15T12:33:18.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=5306&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 5306&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="势能线段树" scheme="http://yoursite.com/tags/%E5%8A%BF%E8%83%BD%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3332 [ZJOI2013] K大数查询</title>
@@ -542,33 +570,6 @@
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1342/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1342E&lt;/a&gt;&lt;/p&gt;
 &lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="组合数学" scheme="http://yoursite.com/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>组合数学模板</title>
-    <link href="http://yoursite.com/2020/05/14/combmath/"/>
-    <id>http://yoursite.com/2020/05/14/combmath/</id>
-    <published>2020-05-14T07:35:50.000Z</published>
-    <updated>2020-05-31T08:06:33.467Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;快速幂&quot;&gt;&lt;a href=&quot;#快速幂&quot; class=&quot;headerlink&quot; title=&quot;快速幂&quot;&gt;&lt;/a&gt;快速幂&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;ll
         
       
     
