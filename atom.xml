@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-16T12:18:11.781Z</updated>
+  <updated>2020-06-20T02:41:23.682Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces-1363F Rotaing Substrings</title>
+    <link href="http://yoursite.com/2020/06/20/CF1363F/"/>
+    <id>http://yoursite.com/2020/06/20/CF1363F/</id>
+    <published>2020-06-20T02:25:03.000Z</published>
+    <updated>2020-06-20T02:41:23.682Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1363/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1363F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>EOJ - 3338 双塔问题</title>
@@ -552,34 +580,6 @@
     
     
       <category term="树链剖分" scheme="http://yoursite.com/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 4417 Super Mario 区间值域个数</title>
-    <link href="http://yoursite.com/2020/05/16/HDU4417/"/>
-    <id>http://yoursite.com/2020/05/16/HDU4417/</id>
-    <published>2020-05-16T10:48:22.000Z</published>
-    <updated>2020-05-16T10:50:40.463Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=4417&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 4417&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="主席树" scheme="http://yoursite.com/tags/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
     
   </entry>
   
