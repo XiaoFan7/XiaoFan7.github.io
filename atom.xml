@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-27T07:42:29.161Z</updated>
+  <updated>2020-07-12T08:03:49.475Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Poweroj - 2883 病毒侵染 （标记割边）</title>
+    <link href="http://yoursite.com/2020/07/12/power2883/"/>
+    <id>http://yoursite.com/2020/07/12/power2883/</id>
+    <published>2020-07-12T08:00:58.000Z</published>
+    <updated>2020-07-12T08:03:49.475Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.oj.swust.edu.cn/problem/show/2883&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Poweroj - 2883&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - 骚区间</title>
@@ -552,34 +580,6 @@
       <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
     
       <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CoderForces-1005F The Shortest paths</title>
-    <link href="http://yoursite.com/2020/05/20/CF1005F/"/>
-    <id>http://yoursite.com/2020/05/20/CF1005F/</id>
-    <published>2020-05-20T08:55:49.000Z</published>
-    <updated>2020-05-20T09:00:24.709Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1005/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CoderForces-1005F&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
   </entry>
   
