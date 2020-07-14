@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-14T06:00:32.248Z</updated>
+  <updated>2020-07-14T09:06:13.595Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - Greater and Greater</title>
+    <link href="http://yoursite.com/2020/07/14/nk5667G/"/>
+    <id>http://yoursite.com/2020/07/14/nk5667G/</id>
+    <published>2020-07-14T08:59:35.000Z</published>
+    <updated>2020-07-14T09:06:13.595Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5667/G&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Greater and
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="bitset" scheme="http://yoursite.com/tags/bitset/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - Minimum-cost Flow</title>
@@ -549,34 +576,6 @@
     
     
       <category term="线段树合并" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%90%88%E5%B9%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-992E King-Shamans</title>
-    <link href="http://yoursite.com/2020/05/26/CF992E/"/>
-    <id>http://yoursite.com/2020/05/26/CF992E/</id>
-    <published>2020-05-26T05:45:49.000Z</published>
-    <updated>2020-05-26T05:50:37.384Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/992/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-992E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
