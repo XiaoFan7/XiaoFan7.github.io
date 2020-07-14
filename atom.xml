@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-13T10:55:03.645Z</updated>
+  <updated>2020-07-14T06:00:32.248Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - Minimum-cost Flow</title>
+    <link href="http://yoursite.com/2020/07/14/nk209437/"/>
+    <id>http://yoursite.com/2020/07/14/nk209437/</id>
+    <published>2020-07-14T05:56:47.000Z</published>
+    <updated>2020-07-14T06:00:32.248Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/209437&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Minimum-cost&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - Fake Maxpooling （二维单调队列）</title>
@@ -538,34 +566,6 @@
         
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/992/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-992E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-765F Souvenirs</title>
-    <link href="http://yoursite.com/2020/05/26/CF765F/"/>
-    <id>http://yoursite.com/2020/05/26/CF765F/</id>
-    <published>2020-05-26T02:06:10.000Z</published>
-    <updated>2020-05-26T02:16:41.042Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/765/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-765F&lt;/a&gt;&lt;/p&gt;
 &lt;h2
         
       
