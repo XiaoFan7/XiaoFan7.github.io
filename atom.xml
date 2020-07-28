@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-22T10:04:45.509Z</updated>
+  <updated>2020-07-28T12:22:08.703Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020牛客多校第六场 - H Harmony Pairs</title>
+    <link href="http://yoursite.com/2020/07/28/nk5671h/"/>
+    <id>http://yoursite.com/2020/07/28/nk5671h/</id>
+    <published>2020-07-28T12:18:32.000Z</published>
+    <updated>2020-07-28T12:22:08.703Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5671/H&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2020牛客多校第六场 - H Harmony
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="数位DP" scheme="http://yoursite.com/tags/%E6%95%B0%E4%BD%8DDP/"/>
+    
+  </entry>
   
   <entry>
     <title>HDU - 6756 Finding a MEX</title>
@@ -546,34 +573,6 @@
     
     
       <category term="树上启发式合并" scheme="http://yoursite.com/tags/%E6%A0%91%E4%B8%8A%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/"/>
-    
-      <category term="线段树合并" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%90%88%E5%B9%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P4556 雨天的尾巴 （树上差分）</title>
-    <link href="http://yoursite.com/2020/05/29/luogu4556/"/>
-    <id>http://yoursite.com/2020/05/29/luogu4556/</id>
-    <published>2020-05-29T14:02:14.000Z</published>
-    <updated>2020-05-29T14:05:34.085Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P4556&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P4556&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
     
       <category term="线段树合并" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%90%88%E5%B9%B6/"/>
     
