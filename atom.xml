@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-28T12:22:08.703Z</updated>
+  <updated>2020-07-29T07:28:56.115Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 6797 Tokitsukaze and Rescue</title>
+    <link href="http://yoursite.com/2020/07/29/hdu6797/"/>
+    <id>http://yoursite.com/2020/07/29/hdu6797/</id>
+    <published>2020-07-29T07:26:38.000Z</published>
+    <updated>2020-07-29T07:28:56.115Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6797&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6797&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+      <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
+    
+  </entry>
   
   <entry>
     <title>2020牛客多校第六场 - H Harmony Pairs</title>
@@ -545,36 +575,6 @@
     
     
       <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1009F Dominant Indeces</title>
-    <link href="http://yoursite.com/2020/05/30/CF1009F/"/>
-    <id>http://yoursite.com/2020/05/30/CF1009F/</id>
-    <published>2020-05-30T11:36:38.000Z</published>
-    <updated>2020-05-30T11:43:32.395Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/600/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1009F&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树上启发式合并" scheme="http://yoursite.com/tags/%E6%A0%91%E4%B8%8A%E5%90%AF%E5%8F%91%E5%BC%8F%E5%90%88%E5%B9%B6/"/>
-    
-      <category term="线段树合并" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%90%88%E5%B9%B6/"/>
     
   </entry>
   
