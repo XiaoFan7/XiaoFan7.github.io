@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-01T14:26:01.158Z</updated>
+  <updated>2020-08-01T16:06:51.463Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - All with Pairs</title>
+    <link href="http://yoursite.com/2020/08/02/nk5667a/"/>
+    <id>http://yoursite.com/2020/08/02/nk5667a/</id>
+    <published>2020-08-01T16:01:18.000Z</published>
+    <updated>2020-08-01T16:06:51.463Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5667/A&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - All with Pairs&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
+    
+      <category term="kmp" scheme="http://yoursite.com/tags/kmp/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3375 KMP字符串匹配</title>
@@ -96,9 +126,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
       <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
   </entry>
   
@@ -547,34 +577,6 @@
     
     
       <category term="势能线段树" scheme="http://yoursite.com/tags/%E5%8A%BF%E8%83%BD%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P3332 [ZJOI2013] K大数查询</title>
-    <link href="http://yoursite.com/2020/06/03/luogu3332/"/>
-    <id>http://yoursite.com/2020/06/03/luogu3332/</id>
-    <published>2020-06-03T10:44:55.000Z</published>
-    <updated>2020-06-03T10:52:32.520Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3332&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3332&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树套树" scheme="http://yoursite.com/tags/%E6%A0%91%E5%A5%97%E6%A0%91/"/>
     
   </entry>
   
