@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T07:18:21.094Z</updated>
+  <updated>2020-08-02T08:26:36.233Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 6763 Total Eclipse</title>
+    <link href="http://yoursite.com/2020/08/02/hdu6763/"/>
+    <id>http://yoursite.com/2020/08/02/hdu6763/</id>
+    <published>2020-08-02T08:21:10.000Z</published>
+    <updated>2020-08-02T08:26:36.233Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6763&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6763&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>HDU - 6767 New Equipments</title>
@@ -549,34 +577,6 @@
     
     
       <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1364D Ehab&#39;s last Corollary （dfs树）</title>
-    <link href="http://yoursite.com/2020/06/16/CF1364D/"/>
-    <id>http://yoursite.com/2020/06/16/CF1364D/</id>
-    <published>2020-06-16T07:48:14.000Z</published>
-    <updated>2020-06-16T07:52:12.720Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1364/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1364D&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
     
   </entry>
   
