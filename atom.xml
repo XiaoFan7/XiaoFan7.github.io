@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-01T16:06:51.463Z</updated>
+  <updated>2020-08-02T07:18:21.094Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 6767 New Equipments</title>
+    <link href="http://yoursite.com/2020/08/02/hdu6767/"/>
+    <id>http://yoursite.com/2020/08/02/hdu6767/</id>
+    <published>2020-08-02T07:15:08.000Z</published>
+    <updated>2020-08-02T07:18:21.094Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6767&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6767&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - All with Pairs</title>
@@ -126,9 +154,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
-    
       <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+      <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
     
   </entry>
   
@@ -549,34 +577,6 @@
     
     
       <category term="图论" scheme="http://yoursite.com/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 5306 Gorgeous Sequence</title>
-    <link href="http://yoursite.com/2020/06/15/HDU5306/"/>
-    <id>http://yoursite.com/2020/06/15/HDU5306/</id>
-    <published>2020-06-15T12:27:36.000Z</published>
-    <updated>2020-06-15T12:39:20.045Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=5306&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 5306&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="势能线段树" scheme="http://yoursite.com/tags/%E5%8A%BF%E8%83%BD%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
