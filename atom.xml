@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T08:37:08.223Z</updated>
+  <updated>2020-08-02T16:03:33.818Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - A National Pandemic</title>
+    <link href="http://yoursite.com/2020/08/02/nk5672C/"/>
+    <id>http://yoursite.com/2020/08/02/nk5672C/</id>
+    <published>2020-08-02T15:58:49.000Z</published>
+    <updated>2020-08-02T16:03:33.818Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5672/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - A National
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树链剖分" scheme="http://yoursite.com/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/"/>
+    
+  </entry>
   
   <entry>
     <title>HDU - 6774 String Distance</title>
@@ -549,34 +576,6 @@
     
     
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces-1363F Rotaing Substrings</title>
-    <link href="http://yoursite.com/2020/06/20/CF1363F/"/>
-    <id>http://yoursite.com/2020/06/20/CF1363F/</id>
-    <published>2020-06-20T02:25:03.000Z</published>
-    <updated>2020-06-20T02:41:23.682Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1363/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces-1363F&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
     
       <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
     
