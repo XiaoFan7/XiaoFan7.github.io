@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-07T13:47:06.042Z</updated>
+  <updated>2020-08-10T08:35:28.751Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - 血压游戏</title>
+    <link href="http://yoursite.com/2020/08/10/nk205300/"/>
+    <id>http://yoursite.com/2020/08/10/nk205300/</id>
+    <published>2020-08-10T08:33:27.000Z</published>
+    <updated>2020-08-10T08:35:28.751Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/205300&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 血压游戏&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="虚树" scheme="http://yoursite.com/tags/%E8%99%9A%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 613D Kingdom and its Cities</title>
@@ -546,36 +574,6 @@
     
     
       <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 骚区间</title>
-    <link href="http://yoursite.com/2020/06/27/nk205352/"/>
-    <id>http://yoursite.com/2020/06/27/nk205352/</id>
-    <published>2020-06-27T07:18:55.000Z</published>
-    <updated>2020-06-27T07:42:29.161Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/205352&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 骚区间&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
-    
-      <category term="树状数组" scheme="http://yoursite.com/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
   </entry>
   
