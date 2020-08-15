@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-10T08:35:28.751Z</updated>
+  <updated>2020-08-15T06:54:23.350Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - 练习赛67F 牛牛的苹果树 （区间直径）</title>
+    <link href="http://yoursite.com/2020/08/15/nk6885F/"/>
+    <id>http://yoursite.com/2020/08/15/nk6885F/</id>
+    <published>2020-08-15T06:51:54.000Z</published>
+    <updated>2020-08-15T06:54:23.350Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/6885/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 练习赛67F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树链剖分" scheme="http://yoursite.com/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>牛客 - 练习赛67E 遍历城市</title>
+    <link href="http://yoursite.com/2020/08/15/nk6885E/"/>
+    <id>http://yoursite.com/2020/08/15/nk6885E/</id>
+    <published>2020-08-15T06:49:57.000Z</published>
+    <updated>2020-08-15T06:51:33.899Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/6885/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 练习赛67E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - 血压游戏</title>
@@ -519,61 +575,6 @@
     
     
       <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - Fake Maxpooling （二维单调队列）</title>
-    <link href="http://yoursite.com/2020/07/13/nk207140/"/>
-    <id>http://yoursite.com/2020/07/13/nk207140/</id>
-    <published>2020-07-13T10:51:23.000Z</published>
-    <updated>2020-07-13T10:55:03.645Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/207140&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Fake
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="单调队列" scheme="http://yoursite.com/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Poweroj - 2883 病毒侵染 （标记割边）</title>
-    <link href="http://yoursite.com/2020/07/12/power2883/"/>
-    <id>http://yoursite.com/2020/07/12/power2883/</id>
-    <published>2020-07-12T08:00:58.000Z</published>
-    <updated>2020-07-12T08:03:49.475Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.oj.swust.edu.cn/problem/show/2883&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Poweroj - 2883&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="网络流" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
   </entry>
   
