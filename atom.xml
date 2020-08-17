@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-15T06:54:23.350Z</updated>
+  <updated>2020-08-17T10:36:28.918Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P2617 Dynamic Rankings （树状数组套线段树）</title>
+    <link href="http://yoursite.com/2020/08/17/luogu2617/"/>
+    <id>http://yoursite.com/2020/08/17/luogu2617/</id>
+    <published>2020-08-17T10:34:15.000Z</published>
+    <updated>2020-08-17T10:36:28.918Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3391&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2617&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="树套树" scheme="http://yoursite.com/tags/%E6%A0%91%E5%A5%97%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - 练习赛67F 牛牛的苹果树 （区间直径）</title>
@@ -462,9 +490,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
       <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
   </entry>
   
@@ -547,34 +575,6 @@
     
     
       <category term="bitset" scheme="http://yoursite.com/tags/bitset/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - Minimum-cost Flow</title>
-    <link href="http://yoursite.com/2020/07/14/nk209437/"/>
-    <id>http://yoursite.com/2020/07/14/nk209437/</id>
-    <published>2020-07-14T05:56:47.000Z</published>
-    <updated>2020-07-14T06:00:32.248Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/209437&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Minimum-cost&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
     
   </entry>
   
