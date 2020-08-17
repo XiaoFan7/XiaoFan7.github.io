@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-17T15:24:43.899Z</updated>
+  <updated>2020-08-17T16:24:51.177Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>HDU - 6858 Discovery of Cycles</title>
+    <link href="http://yoursite.com/2020/08/18/HDU6858/"/>
+    <id>http://yoursite.com/2020/08/18/HDU6858/</id>
+    <published>2020-08-17T16:19:26.000Z</published>
+    <updated>2020-08-17T16:24:51.177Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6858&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6858&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>洛谷 - P2147 [SDOI2008]洞穴勘测 （LCT维护连通性）</title>
     <link href="http://yoursite.com/2020/08/17/luogu2147/"/>
     <id>http://yoursite.com/2020/08/17/luogu2147/</id>
     <published>2020-08-17T15:23:29.000Z</published>
-    <updated>2020-08-17T15:24:43.899Z</updated>
+    <updated>2020-08-17T16:18:45.098Z</updated>
     
     <summary type="html">
     
@@ -49,7 +77,7 @@
     <link href="http://yoursite.com/2020/08/17/luogu3690/"/>
     <id>http://yoursite.com/2020/08/17/luogu3690/</id>
     <published>2020-08-17T15:10:46.000Z</published>
-    <updated>2020-08-17T15:13:12.388Z</updated>
+    <updated>2020-08-17T16:18:57.905Z</updated>
     
     <summary type="html">
     
@@ -548,36 +576,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
-    
       <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
-  </entry>
-  
-  <entry>
-    <title>2020牛客多校第六场 - H Harmony Pairs</title>
-    <link href="http://yoursite.com/2020/07/28/nk5671h/"/>
-    <id>http://yoursite.com/2020/07/28/nk5671h/</id>
-    <published>2020-07-28T12:18:32.000Z</published>
-    <updated>2020-07-28T12:22:08.703Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5671/H&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2020牛客多校第六场 - H Harmony
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="数位DP" scheme="http://yoursite.com/tags/%E6%95%B0%E4%BD%8DDP/"/>
+      <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
     
   </entry>
   
