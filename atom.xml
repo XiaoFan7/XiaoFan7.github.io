@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-18T08:37:25.513Z</updated>
+  <updated>2020-08-18T09:39:04.264Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>洛谷 - P2486 [SDOI2011]染色</title>
+    <link href="http://yoursite.com/2020/08/18/luogu2486/"/>
+    <id>http://yoursite.com/2020/08/18/luogu2486/</id>
+    <published>2020-08-18T09:36:12.000Z</published>
+    <updated>2020-08-18T09:39:04.264Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2486&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2486&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>洛谷 - P1501 [国家集训队]Tree II （懒标记）</title>
     <link href="http://yoursite.com/2020/08/18/luogu1501/"/>
     <id>http://yoursite.com/2020/08/18/luogu1501/</id>
     <published>2020-08-18T08:35:01.000Z</published>
-    <updated>2020-08-18T08:37:25.513Z</updated>
+    <updated>2020-08-18T09:33:44.567Z</updated>
     
     <summary type="html">
     
@@ -49,7 +77,7 @@
     <link href="http://yoursite.com/2020/08/18/luogu3203/"/>
     <id>http://yoursite.com/2020/08/18/luogu3203/</id>
     <published>2020-08-18T07:40:49.000Z</published>
-    <updated>2020-08-18T07:43:32.406Z</updated>
+    <updated>2020-08-18T09:34:06.742Z</updated>
     
     <summary type="html">
     
@@ -77,7 +105,7 @@
     <link href="http://yoursite.com/2020/08/18/HDU6858/"/>
     <id>http://yoursite.com/2020/08/18/HDU6858/</id>
     <published>2020-08-17T16:19:26.000Z</published>
-    <updated>2020-08-17T16:24:51.177Z</updated>
+    <updated>2020-08-18T09:34:26.755Z</updated>
     
     <summary type="html">
     
@@ -133,7 +161,7 @@
     <link href="http://yoursite.com/2020/08/17/luogu3690/"/>
     <id>http://yoursite.com/2020/08/17/luogu3690/</id>
     <published>2020-08-17T15:10:46.000Z</published>
-    <updated>2020-08-17T16:18:57.905Z</updated>
+    <updated>2020-08-18T09:35:02.397Z</updated>
     
     <summary type="html">
     
@@ -547,34 +575,6 @@
     
     
       <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
-    
-      <category term="kmp" scheme="http://yoursite.com/tags/kmp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P3375 KMP字符串匹配</title>
-    <link href="http://yoursite.com/2020/08/01/luogu3375/"/>
-    <id>http://yoursite.com/2020/08/01/luogu3375/</id>
-    <published>2020-08-01T14:24:33.000Z</published>
-    <updated>2020-08-01T14:26:01.158Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3375&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3375&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
     
       <category term="kmp" scheme="http://yoursite.com/tags/kmp/"/>
     
