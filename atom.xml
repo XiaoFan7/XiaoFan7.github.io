@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-17T16:24:51.177Z</updated>
+  <updated>2020-08-18T07:43:32.406Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P3203 [HNOI2010]弹飞绵羊</title>
+    <link href="http://yoursite.com/2020/08/18/luogu3203/"/>
+    <id>http://yoursite.com/2020/08/18/luogu3203/</id>
+    <published>2020-08-18T07:40:49.000Z</published>
+    <updated>2020-08-18T07:43:32.406Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3203&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3203&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+  </entry>
   
   <entry>
     <title>HDU - 6858 Discovery of Cycles</title>
@@ -549,36 +577,6 @@
     
     
       <category term="背包DP" scheme="http://yoursite.com/tags/%E8%83%8C%E5%8C%85DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6797 Tokitsukaze and Rescue</title>
-    <link href="http://yoursite.com/2020/07/29/hdu6797/"/>
-    <id>http://yoursite.com/2020/07/29/hdu6797/</id>
-    <published>2020-07-29T07:26:38.000Z</published>
-    <updated>2020-07-29T07:28:56.115Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6797&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6797&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-      <category term="DFS" scheme="http://yoursite.com/tags/DFS/"/>
     
   </entry>
   
