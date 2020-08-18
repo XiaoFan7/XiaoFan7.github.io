@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-18T07:43:32.406Z</updated>
+  <updated>2020-08-18T08:37:25.513Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P1501 [国家集训队]Tree II （懒标记）</title>
+    <link href="http://yoursite.com/2020/08/18/luogu1501/"/>
+    <id>http://yoursite.com/2020/08/18/luogu1501/</id>
+    <published>2020-08-18T08:35:01.000Z</published>
+    <updated>2020-08-18T08:37:25.513Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1501&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P1501&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3203 [HNOI2010]弹飞绵羊</title>
@@ -549,34 +577,6 @@
     
     
       <category term="kmp" scheme="http://yoursite.com/tags/kmp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6804 Contest of Rope Pulling</title>
-    <link href="http://yoursite.com/2020/08/01/hdu6804/"/>
-    <id>http://yoursite.com/2020/08/01/hdu6804/</id>
-    <published>2020-08-01T13:58:41.000Z</published>
-    <updated>2020-08-02T08:51:40.682Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6804&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6804&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="背包DP" scheme="http://yoursite.com/tags/%E8%83%8C%E5%8C%85DP/"/>
     
   </entry>
   
