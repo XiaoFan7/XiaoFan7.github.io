@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-18T09:39:04.264Z</updated>
+  <updated>2020-08-19T09:01:20.642Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 6873 Game</title>
+    <link href="http://yoursite.com/2020/08/19/HDU6873/"/>
+    <id>http://yoursite.com/2020/08/19/HDU6873/</id>
+    <published>2020-08-19T08:58:07.000Z</published>
+    <updated>2020-08-19T09:01:20.642Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6873&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6873&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="fhq_treap" scheme="http://yoursite.com/tags/fhq-treap/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P2486 [SDOI2011]染色</title>
@@ -547,36 +575,6 @@
     
     
       <category term="费用流" scheme="http://yoursite.com/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - All with Pairs</title>
-    <link href="http://yoursite.com/2020/08/02/nk5667a/"/>
-    <id>http://yoursite.com/2020/08/02/nk5667a/</id>
-    <published>2020-08-01T16:01:18.000Z</published>
-    <updated>2020-08-01T16:06:51.463Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5667/A&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - All with Pairs&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
-    
-      <category term="kmp" scheme="http://yoursite.com/tags/kmp/"/>
     
   </entry>
   
