@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-19T13:26:48.011Z</updated>
+  <updated>2020-08-20T15:15:41.020Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P2542 [AHOI2005] 航线规划</title>
+    <link href="http://yoursite.com/2020/08/20/luogu2542/"/>
+    <id>http://yoursite.com/2020/08/20/luogu2542/</id>
+    <published>2020-08-20T15:11:54.000Z</published>
+    <updated>2020-08-20T15:15:41.020Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P4180&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2542&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P4180 严格次小生成树（LCT维护边权）</title>
@@ -549,34 +577,6 @@
       <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
     
       <category term="序列自动机" scheme="http://yoursite.com/tags/%E5%BA%8F%E5%88%97%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6763 Total Eclipse</title>
-    <link href="http://yoursite.com/2020/08/02/hdu6763/"/>
-    <id>http://yoursite.com/2020/08/02/hdu6763/</id>
-    <published>2020-08-02T08:21:10.000Z</published>
-    <updated>2020-08-02T08:26:36.233Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6763&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6763&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="并查集" scheme="http://yoursite.com/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     
   </entry>
   
