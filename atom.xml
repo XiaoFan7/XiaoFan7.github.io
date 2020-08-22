@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-20T15:15:41.020Z</updated>
+  <updated>2020-08-22T09:47:00.512Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 1398E Two Types of Spells</title>
+    <link href="http://yoursite.com/2020/08/22/CF1398E/"/>
+    <id>http://yoursite.com/2020/08/22/CF1398E/</id>
+    <published>2020-08-22T09:42:07.000Z</published>
+    <updated>2020-08-22T09:47:00.512Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1398/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P2542 [AHOI2005] 航线规划</title>
@@ -547,36 +574,6 @@
     
     
       <category term="树链剖分" scheme="http://yoursite.com/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6774 String Distance</title>
-    <link href="http://yoursite.com/2020/08/02/hdu6774/"/>
-    <id>http://yoursite.com/2020/08/02/hdu6774/</id>
-    <published>2020-08-02T08:31:31.000Z</published>
-    <updated>2020-08-02T08:37:08.223Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6774&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6774&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
-    
-      <category term="序列自动机" scheme="http://yoursite.com/tags/%E5%BA%8F%E5%88%97%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
     
   </entry>
   
