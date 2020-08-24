@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-24T08:40:51.874Z</updated>
+  <updated>2020-08-24T12:52:07.228Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 6880 Permutation Counting</title>
+    <link href="http://yoursite.com/2020/08/24/HDU6880/"/>
+    <id>http://yoursite.com/2020/08/24/HDU6880/</id>
+    <published>2020-08-24T12:44:24.000Z</published>
+    <updated>2020-08-24T12:52:07.228Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6880&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6880&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="计数DP" scheme="http://yoursite.com/tags/%E8%AE%A1%E6%95%B0DP/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P4755 Beautiful Pair</title>
@@ -550,34 +578,6 @@
     
     
       <category term="矩阵树定理" scheme="http://yoursite.com/tags/%E7%9F%A9%E9%98%B5%E6%A0%91%E5%AE%9A%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6832 A Very Easy Graph Problem</title>
-    <link href="http://yoursite.com/2020/08/07/HDU6832/"/>
-    <id>http://yoursite.com/2020/08/07/HDU6832/</id>
-    <published>2020-08-07T06:37:50.000Z</published>
-    <updated>2020-08-07T06:40:25.946Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6832&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6832&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树形DP" scheme="http://yoursite.com/tags/%E6%A0%91%E5%BD%A2DP/"/>
     
   </entry>
   
