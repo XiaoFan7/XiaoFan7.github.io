@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-24T12:52:07.228Z</updated>
+  <updated>2020-08-24T14:11:34.261Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Acwing - 143 最大异或对</title>
+    <link href="http://yoursite.com/2020/08/24/acwing143/"/>
+    <id>http://yoursite.com/2020/08/24/acwing143/</id>
+    <published>2020-08-24T14:10:27.000Z</published>
+    <updated>2020-08-24T14:11:34.261Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/143/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Acwing - 143&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="Trie" scheme="http://yoursite.com/tags/Trie/"/>
+    
+  </entry>
   
   <entry>
     <title>HDU - 6880 Permutation Counting</title>
@@ -550,34 +578,6 @@
     
     
       <category term="虚树" scheme="http://yoursite.com/tags/%E8%99%9A%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6836 Expectation</title>
-    <link href="http://yoursite.com/2020/08/07/HDU6836/"/>
-    <id>http://yoursite.com/2020/08/07/HDU6836/</id>
-    <published>2020-08-07T07:40:53.000Z</published>
-    <updated>2020-08-07T07:42:12.779Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;&quot;&gt;HDU - 6836&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a href=&quot;#思路分析&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="矩阵树定理" scheme="http://yoursite.com/tags/%E7%9F%A9%E9%98%B5%E6%A0%91%E5%AE%9A%E7%90%86/"/>
     
   </entry>
   
