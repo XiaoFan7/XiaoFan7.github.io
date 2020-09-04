@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-31T04:55:32.071Z</updated>
+  <updated>2020-09-04T07:30:56.418Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BZOJ - 2959 长跑（LCT+缩点）</title>
+    <link href="http://yoursite.com/2020/09/04/BZOJ2959/"/>
+    <id>http://yoursite.com/2020/09/04/BZOJ2959/</id>
+    <published>2020-09-04T07:27:19.000Z</published>
+    <updated>2020-09-04T07:30:56.418Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://darkbzoj.tk/problem/2959&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;BZOJ - 2959&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 1400E Clear the Multiset</title>
@@ -76,7 +104,7 @@
     <link href="http://yoursite.com/2020/08/24/HDU6880/"/>
     <id>http://yoursite.com/2020/08/24/HDU6880/</id>
     <published>2020-08-24T12:44:24.000Z</published>
-    <updated>2020-08-24T12:52:07.228Z</updated>
+    <updated>2020-08-31T04:56:47.789Z</updated>
     
     <summary type="html">
     
@@ -236,9 +264,9 @@
       <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-      <category term="最小生成树" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
-    
       <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+      <category term="最小生成树" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
     
   </entry>
   
@@ -538,34 +566,6 @@
         
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/problem/205300&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 血压游戏&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="虚树" scheme="http://yoursite.com/tags/%E8%99%9A%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 613D Kingdom and its Cities</title>
-    <link href="http://yoursite.com/2020/08/07/CF613D/"/>
-    <id>http://yoursite.com/2020/08/07/CF613D/</id>
-    <published>2020-08-07T13:37:10.000Z</published>
-    <updated>2020-08-07T13:47:06.042Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/613/problem/D&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 613D&lt;/a&gt;&lt;/p&gt;
 &lt;h2
         
       
