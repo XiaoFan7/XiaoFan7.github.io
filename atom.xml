@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-08T11:31:08.299Z</updated>
+  <updated>2020-09-08T12:17:46.134Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 1409F Subsequences of Length Two</title>
+    <link href="http://yoursite.com/2020/09/08/CF1409F/"/>
+    <id>http://yoursite.com/2020/09/08/CF1409F/</id>
+    <published>2020-09-08T12:15:36.000Z</published>
+    <updated>2020-09-08T12:17:46.134Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1409/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 1405E Fixed Point Removal</title>
@@ -550,34 +577,6 @@
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
       <category term="树链剖分" scheme="http://yoursite.com/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 练习赛67E 遍历城市</title>
-    <link href="http://yoursite.com/2020/08/15/nk6885E/"/>
-    <id>http://yoursite.com/2020/08/15/nk6885E/</id>
-    <published>2020-08-15T06:49:57.000Z</published>
-    <updated>2020-08-15T06:51:33.899Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/6885/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 练习赛67E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
     
   </entry>
   
