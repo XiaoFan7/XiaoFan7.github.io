@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-14T16:04:33.497Z</updated>
+  <updated>2020-10-14T16:20:39.049Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 1417E XOR Inverse</title>
+    <link href="http://yoursite.com/2020/10/15/CF1417E/"/>
+    <id>http://yoursite.com/2020/10/15/CF1417E/</id>
+    <published>2020-10-14T16:12:41.000Z</published>
+    <updated>2020-10-14T16:20:39.049Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1417/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="分治" scheme="http://yoursite.com/tags/%E5%88%86%E6%B2%BB/"/>
+    
+      <category term="Trie" scheme="http://yoursite.com/tags/Trie/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 1422F Boring Queries（区间LCM）</title>
@@ -548,34 +577,6 @@
     
     
       <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2617 Dynamic Rankings （树状数组套线段树）</title>
-    <link href="http://yoursite.com/2020/08/17/luogu2617/"/>
-    <id>http://yoursite.com/2020/08/17/luogu2617/</id>
-    <published>2020-08-17T10:34:15.000Z</published>
-    <updated>2020-08-17T10:36:28.918Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3391&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2617&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="树套树" scheme="http://yoursite.com/tags/%E6%A0%91%E5%A5%97%E6%A0%91/"/>
     
   </entry>
   
