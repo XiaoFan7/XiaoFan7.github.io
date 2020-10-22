@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-14T16:20:39.049Z</updated>
+  <updated>2020-10-22T15:39:03.366Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - 斐波拉契和（线性BM）</title>
+    <link href="http://yoursite.com/2020/10/22/nk5477J/"/>
+    <id>http://yoursite.com/2020/10/22/nk5477J/</id>
+    <published>2020-10-22T15:38:04.000Z</published>
+    <updated>2020-10-22T15:39:03.366Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5477/J&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 斐波拉契和&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 1417E XOR Inverse</title>
@@ -538,34 +566,6 @@
         
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3369&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2147&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P3690 Link Cut Tree</title>
-    <link href="http://yoursite.com/2020/08/17/luogu3690/"/>
-    <id>http://yoursite.com/2020/08/17/luogu3690/</id>
-    <published>2020-08-17T15:10:46.000Z</published>
-    <updated>2020-08-18T09:35:02.397Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3369&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3690&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
         
       
