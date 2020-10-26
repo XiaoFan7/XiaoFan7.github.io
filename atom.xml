@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-22T15:39:03.366Z</updated>
+  <updated>2020-10-26T14:59:57.997Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 580E Kefa and Watch（线段树哈希）</title>
+    <link href="http://yoursite.com/2020/10/26/CF580E/"/>
+    <id>http://yoursite.com/2020/10/26/CF580E/</id>
+    <published>2020-10-26T14:55:37.000Z</published>
+    <updated>2020-10-26T14:59:57.997Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/580/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 580E&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - 斐波拉契和（线性BM）</title>
@@ -539,34 +569,6 @@
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6858&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6858&lt;/a&gt;&lt;/p&gt;
 &lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2147 [SDOI2008]洞穴勘测 （LCT维护连通性）</title>
-    <link href="http://yoursite.com/2020/08/17/luogu2147/"/>
-    <id>http://yoursite.com/2020/08/17/luogu2147/</id>
-    <published>2020-08-17T15:23:29.000Z</published>
-    <updated>2020-08-17T16:18:45.098Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3369&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2147&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
         
       
     
