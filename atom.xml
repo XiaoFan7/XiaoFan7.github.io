@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-28T17:44:53.613Z</updated>
+  <updated>2020-10-28T17:49:49.604Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Poweroj - 2912 先知归来</title>
+    <link href="http://yoursite.com/2020/10/29/power2912/"/>
+    <id>http://yoursite.com/2020/10/29/power2912/</id>
+    <published>2020-10-28T17:47:33.000Z</published>
+    <updated>2020-10-28T17:49:49.604Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.oj.swust.edu.cn/problem/show/2912&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Poweroj - 2912&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="矩阵" scheme="http://yoursite.com/tags/%E7%9F%A9%E9%98%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3390 矩阵快速幂（矩阵模板）</title>
@@ -540,34 +568,6 @@
         
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1501&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P1501&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P3203 [HNOI2010]弹飞绵羊</title>
-    <link href="http://yoursite.com/2020/08/18/luogu3203/"/>
-    <id>http://yoursite.com/2020/08/18/luogu3203/</id>
-    <published>2020-08-18T07:40:49.000Z</published>
-    <updated>2020-08-18T09:34:06.742Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3203&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3203&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
         
       
