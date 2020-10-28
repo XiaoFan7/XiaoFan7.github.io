@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-26T14:59:57.997Z</updated>
+  <updated>2020-10-28T17:44:53.613Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P3390 矩阵快速幂（矩阵模板）</title>
+    <link href="http://yoursite.com/2020/10/29/luogu3390/"/>
+    <id>http://yoursite.com/2020/10/29/luogu3390/</id>
+    <published>2020-10-28T17:43:55.000Z</published>
+    <updated>2020-10-28T17:44:53.613Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3390&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3390&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="矩阵" scheme="http://yoursite.com/tags/%E7%9F%A9%E9%98%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 580E Kefa and Watch（线段树哈希）</title>
@@ -541,34 +569,6 @@
         
           &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3203&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3203&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6858 Discovery of Cycles</title>
-    <link href="http://yoursite.com/2020/08/18/HDU6858/"/>
-    <id>http://yoursite.com/2020/08/18/HDU6858/</id>
-    <published>2020-08-17T16:19:26.000Z</published>
-    <updated>2020-08-18T09:34:26.755Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6858&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6858&lt;/a&gt;&lt;/p&gt;
-&lt;h2
         
       
     
