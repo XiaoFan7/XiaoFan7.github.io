@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-28T17:49:49.604Z</updated>
+  <updated>2020-11-04T13:39:46.283Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 1442C Graph Transpositions（分层图）</title>
+    <link href="http://yoursite.com/2020/11/04/CF1442C/"/>
+    <id>http://yoursite.com/2020/11/04/CF1442C/</id>
+    <published>2020-11-04T13:34:22.000Z</published>
+    <updated>2020-11-04T13:39:46.283Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1442/problem/C&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="最短路" scheme="http://yoursite.com/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CodeForces - 1437E Make It Increasing（LIS变形）</title>
+    <link href="http://yoursite.com/2020/11/04/CF1437E/"/>
+    <id>http://yoursite.com/2020/11/04/CF1437E/</id>
+    <published>2020-11-04T13:28:19.000Z</published>
+    <updated>2020-11-04T13:33:21.419Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1437/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
+    
+      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>Poweroj - 2912 先知归来</title>
@@ -523,62 +579,6 @@
     
     
       <category term="fhq_treap" scheme="http://yoursite.com/tags/fhq-treap/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2486 [SDOI2011]染色</title>
-    <link href="http://yoursite.com/2020/08/18/luogu2486/"/>
-    <id>http://yoursite.com/2020/08/18/luogu2486/</id>
-    <published>2020-08-18T09:36:12.000Z</published>
-    <updated>2020-08-18T09:39:04.264Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2486&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2486&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P1501 [国家集训队]Tree II （懒标记）</title>
-    <link href="http://yoursite.com/2020/08/18/luogu1501/"/>
-    <id>http://yoursite.com/2020/08/18/luogu1501/</id>
-    <published>2020-08-18T08:35:01.000Z</published>
-    <updated>2020-08-18T09:33:44.567Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1501&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P1501&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
     
   </entry>
   
