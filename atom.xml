@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-18T13:20:28.558Z</updated>
+  <updated>2020-11-20T06:21:49.033Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 1440E Greedy Shopping</title>
+    <link href="http://yoursite.com/2020/11/20/CF1440E/"/>
+    <id>http://yoursite.com/2020/11/20/CF1440E/</id>
+    <published>2020-11-20T06:18:37.000Z</published>
+    <updated>2020-11-20T06:21:49.033Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1440/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 1447F Xor Tree</title>
@@ -549,34 +576,6 @@
     
     
       <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2542 [AHOI2005] 航线规划</title>
-    <link href="http://yoursite.com/2020/08/20/luogu2542/"/>
-    <id>http://yoursite.com/2020/08/20/luogu2542/</id>
-    <published>2020-08-20T15:11:54.000Z</published>
-    <updated>2020-09-08T11:23:19.570Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2542&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P2542&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
     
   </entry>
   
