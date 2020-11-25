@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-20T06:21:49.033Z</updated>
+  <updated>2020-11-25T15:23:23.988Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P4219 [BJOI]大融合（维护子树大小）</title>
+    <link href="http://yoursite.com/2020/11/25/luogu4219/"/>
+    <id>http://yoursite.com/2020/11/25/luogu4219/</id>
+    <published>2020-11-25T15:11:23.000Z</published>
+    <updated>2020-11-25T15:23:23.988Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P4219&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P4219&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 1440E Greedy Shopping</title>
@@ -549,33 +577,6 @@
     
     
       <category term="笛卡尔树" scheme="http://yoursite.com/tags/%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 1398E Two Types of Spells</title>
-    <link href="http://yoursite.com/2020/08/22/CF1398E/"/>
-    <id>http://yoursite.com/2020/08/22/CF1398E/</id>
-    <published>2020-08-22T09:42:07.000Z</published>
-    <updated>2020-08-22T09:47:00.512Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1398/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
