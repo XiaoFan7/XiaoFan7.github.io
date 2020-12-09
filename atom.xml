@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-11-29T16:03:59.688Z</updated>
+  <updated>2020-12-09T14:13:01.145Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P6329 震波</title>
+    <link href="http://yoursite.com/2020/12/09/luogu6329/"/>
+    <id>http://yoursite.com/2020/12/09/luogu6329/</id>
+    <published>2020-12-09T13:59:04.000Z</published>
+    <updated>2020-12-09T14:13:01.145Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P6329&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P6329&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="动态点分治" scheme="http://yoursite.com/tags/%E5%8A%A8%E6%80%81%E7%82%B9%E5%88%86%E6%B2%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>CodeForces - 149D Coloring Brackets</title>
@@ -547,36 +575,6 @@
     
     
       <category term="计数DP" scheme="http://yoursite.com/tags/%E8%AE%A1%E6%95%B0DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P4755 Beautiful Pair</title>
-    <link href="http://yoursite.com/2020/08/24/luogu4755/"/>
-    <id>http://yoursite.com/2020/08/24/luogu4755/</id>
-    <published>2020-08-24T08:37:53.000Z</published>
-    <updated>2020-08-24T08:40:51.874Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P4755&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P4755&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="主席树" scheme="http://yoursite.com/tags/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
-    
-      <category term="笛卡尔树" scheme="http://yoursite.com/tags/%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%A0%91/"/>
     
   </entry>
   
