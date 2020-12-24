@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-12-09T14:13:01.145Z</updated>
+  <updated>2020-12-24T15:54:42.646Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Codeforces - 940F Machine Learning（带修莫队）</title>
+    <link href="http://yoursite.com/2020/12/24/CF940F/"/>
+    <id>http://yoursite.com/2020/12/24/CF940F/</id>
+    <published>2020-12-24T15:53:33.000Z</published>
+    <updated>2020-12-24T15:54:42.646Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/940/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Codeforces - 940F&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="莫队" scheme="http://yoursite.com/tags/%E8%8E%AB%E9%98%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P6329 震波</title>
@@ -547,34 +575,6 @@
     
     
       <category term="Trie" scheme="http://yoursite.com/tags/Trie/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 6880 Permutation Counting</title>
-    <link href="http://yoursite.com/2020/08/24/HDU6880/"/>
-    <id>http://yoursite.com/2020/08/24/HDU6880/</id>
-    <published>2020-08-24T12:44:24.000Z</published>
-    <updated>2020-08-31T04:56:47.789Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=6880&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6880&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="计数DP" scheme="http://yoursite.com/tags/%E8%AE%A1%E6%95%B0DP/"/>
     
   </entry>
   
