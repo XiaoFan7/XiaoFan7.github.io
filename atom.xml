@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-02-26T15:11:34.055Z</updated>
+  <updated>2021-03-17T05:41:10.309Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 5833 Zhu and 772002（异或方程组）</title>
+    <link href="http://yoursite.com/2021/03/17/hdu5833/"/>
+    <id>http://yoursite.com/2021/03/17/hdu5833/</id>
+    <published>2021-03-17T05:23:38.000Z</published>
+    <updated>2021-03-17T05:41:10.309Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=5833&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 5833&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="高斯消元" scheme="http://yoursite.com/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/"/>
+    
+  </entry>
   
   <entry>
     <title>2021牛客寒假6H - 区间最小生成树</title>
@@ -546,35 +574,6 @@
     
     
       <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 1405E Fixed Point Removal</title>
-    <link href="http://yoursite.com/2020/09/08/CF1405E/"/>
-    <id>http://yoursite.com/2020/09/08/CF1405E/</id>
-    <published>2020-09-08T11:21:56.000Z</published>
-    <updated>2020-09-08T11:31:08.299Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1405/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="二分" scheme="http://yoursite.com/tags/%E4%BA%8C%E5%88%86/"/>
-    
-      <category term="树状数组" scheme="http://yoursite.com/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
   </entry>
   
