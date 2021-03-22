@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-03-17T05:41:10.309Z</updated>
+  <updated>2021-03-22T04:41:49.752Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,90 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P5357 AC自动机（二次加强版）</title>
+    <link href="http://yoursite.com/2021/03/22/luogu5357/"/>
+    <id>http://yoursite.com/2021/03/22/luogu5357/</id>
+    <published>2021-03-22T04:40:54.000Z</published>
+    <updated>2021-03-22T04:41:49.752Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P5357&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P5357&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="AC自动机" scheme="http://yoursite.com/tags/AC%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洛谷 - P3796 AC自动机（加强版）</title>
+    <link href="http://yoursite.com/2021/03/22/luogu3796/"/>
+    <id>http://yoursite.com/2021/03/22/luogu3796/</id>
+    <published>2021-03-22T04:38:08.000Z</published>
+    <updated>2021-03-22T04:38:43.808Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3796&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3796&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="AC自动机" scheme="http://yoursite.com/tags/AC%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洛谷 - P3803 AC自动机（简单版）</title>
+    <link href="http://yoursite.com/2021/03/22/luogu3808/"/>
+    <id>http://yoursite.com/2021/03/22/luogu3808/</id>
+    <published>2021-03-22T04:34:22.000Z</published>
+    <updated>2021-03-22T04:36:00.760Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P3808&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P3803&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="AC自动机" scheme="http://yoursite.com/tags/AC%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>HDU - 5833 Zhu and 772002（异或方程组）</title>
@@ -489,91 +573,6 @@
     
     
       <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 1417E XOR Inverse</title>
-    <link href="http://yoursite.com/2020/10/15/CF1417E/"/>
-    <id>http://yoursite.com/2020/10/15/CF1417E/</id>
-    <published>2020-10-14T16:12:41.000Z</published>
-    <updated>2020-10-14T16:20:39.049Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1417/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="分治" scheme="http://yoursite.com/tags/%E5%88%86%E6%B2%BB/"/>
-    
-      <category term="Trie" scheme="http://yoursite.com/tags/Trie/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 1422F Boring Queries（区间LCM）</title>
-    <link href="http://yoursite.com/2020/10/15/CF1422F/"/>
-    <id>http://yoursite.com/2020/10/15/CF1422F/</id>
-    <published>2020-10-14T16:01:22.000Z</published>
-    <updated>2020-10-14T16:04:33.497Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1422/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="主席树" scheme="http://yoursite.com/tags/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
-    
-      <category term="ST表" scheme="http://yoursite.com/tags/ST%E8%A1%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 1409F Subsequences of Length Two</title>
-    <link href="http://yoursite.com/2020/09/08/CF1409F/"/>
-    <id>http://yoursite.com/2020/09/08/CF1409F/</id>
-    <published>2020-09-08T12:15:36.000Z</published>
-    <updated>2020-09-08T12:17:46.134Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1409/problem/F&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="DP" scheme="http://yoursite.com/tags/DP/"/>
     
   </entry>
   
