@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-03-22T10:28:52.109Z</updated>
+  <updated>2021-03-22T15:08:24.408Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeForces - 1437G Death DBMS</title>
+    <link href="http://yoursite.com/2021/03/22/CF1437G/"/>
+    <id>http://yoursite.com/2021/03/22/CF1437G/</id>
+    <published>2021-03-22T15:06:57.000Z</published>
+    <updated>2021-03-22T15:08:24.408Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/contest/1437/problem/G&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="AC自动机" scheme="http://yoursite.com/tags/AC%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>gym - 102361G Game on Chessboard</title>
+    <link href="http://yoursite.com/2021/03/22/gym102361G/"/>
+    <id>http://yoursite.com/2021/03/22/gym102361G/</id>
+    <published>2021-03-22T13:39:17.000Z</published>
+    <updated>2021-03-22T13:42:23.757Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/gym/102361/problem/G&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;gym - 102361G&lt;/a&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="轮廓线DP" scheme="http://yoursite.com/tags/%E8%BD%AE%E5%BB%93%E7%BA%BFDP/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P5357 AC自动机（二次加强版）</title>
@@ -515,64 +570,6 @@
     
     
       <category term="矩阵" scheme="http://yoursite.com/tags/%E7%9F%A9%E9%98%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 580E Kefa and Watch（线段树哈希）</title>
-    <link href="http://yoursite.com/2020/10/26/CF580E/"/>
-    <id>http://yoursite.com/2020/10/26/CF580E/</id>
-    <published>2020-10-26T14:55:37.000Z</published>
-    <updated>2020-10-26T14:59:57.997Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/580/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces - 580E&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
-      <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>牛客 - 斐波拉契和（线性BM）</title>
-    <link href="http://yoursite.com/2020/10/22/nk5477J/"/>
-    <id>http://yoursite.com/2020/10/22/nk5477J/</id>
-    <published>2020-10-22T15:38:04.000Z</published>
-    <updated>2020-10-22T15:39:03.366Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/5477/J&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - 斐波拉契和&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="数论" scheme="http://yoursite.com/tags/%E6%95%B0%E8%AE%BA/"/>
     
   </entry>
   
