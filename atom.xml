@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-05-23T10:00:46.124Z</updated>
+  <updated>2021-06-23T09:06:05.309Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2020ICPC新疆省赛 - A Chino With String</title>
-    <link href="http://yoursite.com/2021/05/23/nk16792A/"/>
-    <id>http://yoursite.com/2021/05/23/nk16792A/</id>
-    <published>2021-05-23T09:54:51.000Z</published>
-    <updated>2021-05-23T10:00:46.124Z</updated>
+    <title>AcWing - 156 矩阵（二维哈希）</title>
+    <link href="http://yoursite.com/2021/06/23/acwing156/"/>
+    <id>http://yoursite.com/2021/06/23/acwing156/</id>
+    <published>2021-06-23T09:05:06.000Z</published>
+    <updated>2021-06-23T09:06:05.309Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,34 @@
       
         
         
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/16792&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2020ICPC新疆省赛 - A&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/description/158/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AcWing -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="hash" scheme="http://yoursite.com/tags/hash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020ICPC新疆省赛 - A Chino With String</title>
+    <link href="http://yoursite.com/2021/05/23/nk16792A/"/>
+    <id>http://yoursite.com/2021/05/23/nk16792A/</id>
+    <published>2021-05-23T09:54:51.000Z</published>
+    <updated>2021-06-15T17:45:07.916Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.ml/gym/103115/problem/A&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2020ICPC新疆省赛 - A&lt;/a&gt;&lt;/p&gt;
 &lt;h2
         
       
@@ -549,33 +576,6 @@
     
     
       <category term="LCT" scheme="http://yoursite.com/tags/LCT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CodeForces - 1440E Greedy Shopping</title>
-    <link href="http://yoursite.com/2020/11/20/CF1440E/"/>
-    <id>http://yoursite.com/2020/11/20/CF1440E/</id>
-    <published>2020-11-20T06:18:37.000Z</published>
-    <updated>2020-11-20T06:21:49.033Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://codeforces.com/contest/1440/problem/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CodeForces -
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
