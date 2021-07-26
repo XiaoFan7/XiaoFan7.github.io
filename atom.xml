@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-07-04T16:57:37.176Z</updated>
+  <updated>2021-07-26T15:25:17.377Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - Tree Xor</title>
+    <link href="http://yoursite.com/2021/07/26/nk11255E/"/>
+    <id>http://yoursite.com/2021/07/26/nk11255E/</id>
+    <published>2021-07-26T14:52:30.000Z</published>
+    <updated>2021-07-26T15:25:17.377Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/11255/E&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Tree Xor&lt;/a&gt;&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="线段树" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+      <category term="位运算" scheme="http://yoursite.com/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3193 GT考试</title>
@@ -552,34 +582,6 @@
     
     
       <category term="莫队" scheme="http://yoursite.com/tags/%E8%8E%AB%E9%98%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P6329 震波</title>
-    <link href="http://yoursite.com/2020/12/09/luogu6329/"/>
-    <id>http://yoursite.com/2020/12/09/luogu6329/</id>
-    <published>2020-12-09T13:59:04.000Z</published>
-    <updated>2020-12-09T14:13:01.145Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P6329&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;洛谷 - P6329&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;思路分析&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="动态点分治" scheme="http://yoursite.com/tags/%E5%8A%A8%E6%80%81%E7%82%B9%E5%88%86%E6%B2%BB/"/>
     
   </entry>
   
