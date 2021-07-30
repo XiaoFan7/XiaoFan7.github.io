@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-07-27T19:44:24.207Z</updated>
+  <updated>2021-07-30T12:43:23.389Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HDU - 6988 Display Substring</title>
+    <link href="http://yoursite.com/2021/07/30/hdu6988/"/>
+    <id>http://yoursite.com/2021/07/30/hdu6988/</id>
+    <published>2021-07-30T12:26:11.000Z</published>
+    <updated>2021-07-30T12:43:23.389Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://acm.hdu.edu.cn/showproblem.php?pid=6988&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 6988&lt;/a&gt;&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="后缀数组" scheme="http://yoursite.com/tags/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84/"/>
+    
+  </entry>
   
   <entry>
     <title>牛客 - Rebuild Tree</title>
@@ -557,34 +585,6 @@
     
     
       <category term="高斯消元" scheme="http://yoursite.com/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2021牛客寒假6H - 区间最小生成树</title>
-    <link href="http://yoursite.com/2021/02/26/nk9986H/"/>
-    <id>http://yoursite.com/2021/02/26/nk9986H/</id>
-    <published>2021-02-26T15:10:23.000Z</published>
-    <updated>2021-02-26T15:11:34.055Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/9986/H&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2021牛客寒假6H&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="最小生成树" scheme="http://yoursite.com/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
     
   </entry>
   
