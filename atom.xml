@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-07-30T12:43:23.389Z</updated>
+  <updated>2021-08-07T19:42:16.558Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牛客 - Defend Your Country（割点）</title>
+    <link href="http://yoursite.com/2021/08/08/nk11257j/"/>
+    <id>http://yoursite.com/2021/08/08/nk11257j/</id>
+    <published>2021-08-07T19:40:24.000Z</published>
+    <updated>2021-08-07T19:42:16.558Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;https://ac.nowcoder.com/acm/contest/11257/J&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;牛客 - Defend Your
+        
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="Tarjan" scheme="http://yoursite.com/tags/Tarjan/"/>
+    
+  </entry>
   
   <entry>
     <title>HDU - 6988 Display Substring</title>
@@ -557,34 +584,6 @@
     
     
       <category term="AC自动机" scheme="http://yoursite.com/tags/AC%E8%87%AA%E5%8A%A8%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HDU - 5833 Zhu and 772002（异或方程组）</title>
-    <link href="http://yoursite.com/2021/03/17/hdu5833/"/>
-    <id>http://yoursite.com/2021/03/17/hdu5833/</id>
-    <published>2021-03-17T05:23:38.000Z</published>
-    <updated>2021-03-17T05:41:10.309Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;传送门：&lt;/strong&gt;&lt;a href=&quot;http://acm.hdu.edu.cn/showproblem.php?pid=5833&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HDU - 5833&lt;/a&gt;&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="题解" scheme="http://yoursite.com/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-      <category term="高斯消元" scheme="http://yoursite.com/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/"/>
     
   </entry>
   
